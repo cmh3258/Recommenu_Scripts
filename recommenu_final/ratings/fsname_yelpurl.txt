@@ -1,0 +1,520 @@
+Biagio Ristorante,http://www.yelp.com/menu/biagio-ristorante-waltham
+Deuxave,http://www.yelp.com/menu/deuxave-boston
+Smith & Wollensky,http://www.yelp.com/menu/smith-and-wollensky-boston-2/dinner
+Mooo....,http://www.yelp.com/menu/mooo-boston
+The Fours,http://www.yelp.com/menu/the-fours-quincy/lunch-menu
+The Four's,http://www.yelp.com/menu/the-fours-boston/lunch-menu
+Spike's Junkyard Dogs,http://www.yelp.com/menu/spikes-junkyard-dogs-somerville
+Bambara Cambridge,http://www.yelp.com/menu/bambara-cambridge-cambridge/dinner-and-dessert-menu
+The Parish Cafe,http://www.yelp.com/menu/the-parish-cafe-boston
+Aquitaine,http://www.yelp.com/menu/aquitaine-boston/dinner
+Gaslight Brasserie Du Coin,http://www.yelp.com/menu/gaslight-brasserie-du-coin-boston/main-menu
+Pizzeria Dante,http://www.yelp.com/menu/pizzeria-dante-brookline
+Dante,http://www.yelp.com/menu/dante-cambridge
+The Friendly Toast,http://www.yelp.com/menu/the-friendly-toast-cambridge
+Finagle A Bagel,http://www.yelp.com/menu/finagle-a-bagel-boston-6
+Mike & Patty's,http://www.yelp.com/menu/mike-and-pattys-boston/breakfast-menu
+Pret A Manger,http://www.yelp.com/menu/pret-a-manger-boston
+Bella Vista,http://www.yelp.com/menu/bella-vista-boston
+Legal Sea Foods,http://www.yelp.com/menu/legal-sea-foods-boston-9
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+Nubar,http://www.yelp.com/menu/nubar-cambridge
+Typhoon Asian Bistro,http://www.yelp.com/menu/typhoon-asian-bistro-boston
+Oishii Boston,http://www.yelp.com/menu/oishii-boston-boston
+Stockyard Restaurant,http://www.yelp.com/menu/stockyard-restaurant-brighton-3
+Frank's Steakhouse,http://www.yelp.com/menu/franks-steakhouse-cambridge
+Al's State Street Cafe,http://www.yelp.com/menu/als-state-street-cafe-boston
+Meritage,http://www.yelp.com/menu/meritage-boston
+Rowes Wharf Sea Grille,http://www.yelp.com/menu/rowes-wharf-sea-grille-boston
+J J Foley's Cafe,http://www.yelp.com/menu/j-j-foleys-cafe-boston-3/sunday-brunch-menu
+Paddy's Pub,http://www.yelp.com/menu/paddys-pub-west-newton
+The Hungry I,http://www.yelp.com/menu/the-hungry-i-boston
+Sam LaGrassa's,http://www.yelp.com/menu/sam-lagrassas-boston-3
+Oishii Too Sushi Bar,http://www.yelp.com/menu/oishii-too-sushi-bar-sudbury
+Oishii Boston,http://www.yelp.com/menu/oishii-boston-boston
+Green Briar Restaurant & Pub,http://www.yelp.com/menu/green-briar-restaurant-and-pub-brighton
+Devlin's,http://www.yelp.com/menu/devlins-brighton/brunch-menu
+Kendall House of Pizza,http://www.yelp.com/menu/kendall-house-of-pizza-cambridge
+Figs,http://www.yelp.com/menu/figs-boston
+Skipjack's Seafood Emporium,http://www.yelp.com/menu/skipjacks-seafood-emporium-boston-2
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+Drink,http://www.yelp.com/menu/drink-boston
+Coda,http://www.yelp.com/menu/coda-boston
+Thai Basil Restaurant,http://www.yelp.com/menu/thai-basil-restaurant-boston
+Bangkok City,http://www.yelp.com/menu/bangkok-city-boston
+Bangkok Blue,http://www.yelp.com/menu/bangkok-blue-boston
+Oleana Restaurant,http://www.yelp.com/menu/oleana-restaurant-cambridge
+SOFRA Bakery & Cafe,http://www.yelp.com/menu/sofra-bakery-and-cafe-cambridge
+Deli One,http://www.yelp.com/menu/deli-one-boston
+Kingston Station,http://www.yelp.com/menu/kingston-station-boston/lunch-menu
+Aquitaine,http://www.yelp.com/menu/aquitaine-boston/dinner
+Brasserie Jo,http://www.yelp.com/menu/brasserie-jo-boston-3
+Sam LaGrassa's,http://www.yelp.com/menu/sam-lagrassas-boston-3
+The Warren Tavern,http://www.yelp.com/menu/the-warren-tavern-charlestown/brunch-menu
+Milk Street Cafe,http://www.yelp.com/menu/milk-street-cafe-boston-2
+The Parish Cafe,http://www.yelp.com/menu/the-parish-cafe-boston
+Fowler House Cafe,http://www.yelp.com/menu/fowler-house-cafe-quincy
+Island Creek Oyster Bar,http://www.yelp.com/menu/island-creek-oyster-bar-boston/dinner
+Neptune Oyster,http://www.yelp.com/menu/neptune-oyster-boston
+B & G Oysters,http://www.yelp.com/menu/b-and-g-oysters-boston
+Popeye's Chicken & Biscuits,http://www.yelp.com/menu/popeyes-chicken-and-biscuits-boston
+Wings Over Brookline,http://www.yelp.com/menu/wings-over-brookline-brookline
+Jim's Deli & Restaurant,http://www.yelp.com/menu/jims-deli-and-restaurant-brighton
+Eagle's Deli,http://www.yelp.com/menu/eagles-deli-brighton
+Hard Rock Cafe,http://www.yelp.com/menu/hard-rock-cafe-boston
+The Parish Cafe,http://www.yelp.com/menu/the-parish-cafe-boston
+The Avenue,http://www.yelp.com/menu/the-avenue-allston
+Little Steve's House of Pizza,http://www.yelp.com/menu/little-steves-house-of-pizza-boston
+Steve's Greek Restaurant,http://www.yelp.com/menu/steves-greek-restaurant-boston
+Francesca Pizzeria,http://www.yelp.com/menu/francesca-pizzeria-newton-2
+Villa Francesca,http://www.yelp.com/menu/villa-francesca-boston
+Erbaluce,http://www.yelp.com/menu/erbaluce-boston
+Spuds Restaurant & Pub,http://www.yelp.com/menu/spuds-restaurant-and-pub-saugus-2
+Spud's Restaurant & Pub,http://www.yelp.com/menu/spuds-restaurant-and-pub-woburn-3
+The Hawthorne,http://www.yelp.com/menu/the-hawthorne-boston-2
+Orleans Bar and Restaurant,http://www.yelp.com/menu/orleans-bar-and-restaurant-somerville/orleans-restaurant
+Technique @ Le Cordon Bleu College of Culinary Arts,http://www.yelp.com/menu/technique-le-cordon-bleu-college-of-culinary-arts-cambridge
+North 26 Restaurant & Bar,http://www.yelp.com/menu/north-26-restaurant-and-bar-boston-2/breakfast
+Tasty Burger,http://www.yelp.com/menu/tasty-burger-boston
+Tasty Foods,http://www.yelp.com/menu/tasty-foods-peabody
+Intermission Tavern,http://www.yelp.com/menu/intermission-tavern-boston-2
+The Pour House,http://www.yelp.com/menu/the-pour-house-boston
+Rock Bottom Restaurant,http://www.yelp.com/menu/rock-bottom-restaurant-boston
+Rasoi Restaurant,http://www.yelp.com/menu/rasoi-restaurant-framingham
+Maggiano's Little Italy,http://www.yelp.com/menu/maggianos-little-italy-boston/lunch
+Giacomo's Ristorante,http://www.yelp.com/menu/giacomos-ristorante-boston
+Vee Vee,http://www.yelp.com/menu/vee-vee-jamaica-plain
+Estragon,http://www.yelp.com/menu/estragon-boston
+Tapeo Restaurant & Tapas Bar,http://www.yelp.com/menu/tapeo-restaurant-and-tapas-bar-boston/main-menu
+Miracle of Science Bar + Grill,http://www.yelp.com/menu/miracle-of-science-bar-grill-cambridge
+Drink,http://www.yelp.com/menu/drink-boston
+Audubon Circle Restaurant Bar,http://www.yelp.com/menu/audubon-circle-restaurant-bar-boston
+Angora Cafe,http://www.yelp.com/menu/angora-cafe-boston
+Cafe Podima,http://www.yelp.com/menu/cafe-podima-boston
+Sauciety,http://www.yelp.com/menu/sauciety-boston
+The Capital Grille,http://www.yelp.com/menu/the-capital-grille-chestnut-hill-2
+The Barracuda Tavern,http://www.yelp.com/menu/the-barracuda-tavern-boston
+The Parish Cafe,http://www.yelp.com/menu/the-parish-cafe-boston
+Appleton Cafe,http://www.yelp.com/menu/appleton-cafe-boston
+Angela's Cafe,http://www.yelp.com/menu/angelas-cafe-boston-3
+Boston Beer Works,http://www.yelp.com/menu/boston-beer-works-boston
+Bukowski Tavern,http://www.yelp.com/menu/bukowski-tavern-cambridge
+Flour Bakery & Cafe,http://www.yelp.com/menu/flour-bakery-and-cafe-boston-2
+Mikes City Diner,http://www.yelp.com/menu/mikes-city-diner-boston
+South Street Diner,http://www.yelp.com/menu/south-street-diner-boston
+Spud's Restaurant & Pub,http://www.yelp.com/menu/spuds-restaurant-and-pub-woburn-3
+Auntie Anne's Pretzels,http://www.yelp.com/menu/auntie-annes-pretzels-boston
+Slugger's Dugout,http://www.yelp.com/menu/sluggers-dugout-boston
+Menton,http://www.yelp.com/menu/menton-boston
+Avenue One Terrace,http://www.yelp.com/menu/avenue-one-terrace-boston
+Artisan Bistro,http://www.yelp.com/menu/artisan-bistro-boston-3
+Sorellina,http://www.yelp.com/menu/sorellina-boston
+Teatro,http://www.yelp.com/menu/teatro-boston
+City Landing,http://www.yelp.com/menu/city-landing-boston
+CitySide,http://www.yelp.com/menu/cityside-brighton
+The Corner Cafe,http://www.yelp.com/menu/the-corner-cafe-marshfield/breakfast
+Johnny's Pizza & Smokehouse,http://www.yelp.com/menu/johnnys-pizza-and-smokehouse-newton
+West End Johnnies,http://www.yelp.com/menu/west-end-johnnies-boston
+The Black Rose,http://www.yelp.com/menu/the-black-rose-boston
+Jose McIntyre's,http://www.yelp.com/menu/jose-mcintyres-boston
+Bleacher Bar,http://www.yelp.com/menu/bleacher-bar-boston
+Cask'n Flagon,http://www.yelp.com/menu/caskn-flagon-boston-2
+Jm Curley,http://www.yelp.com/menu/jm-curley-boston
+Mike's Pastry,http://www.yelp.com/menu/mikes-pastry-boston
+Modern Pastry Shop,http://www.yelp.com/menu/modern-pastry-shop-boston
+Maria's Pastry Shop,http://www.yelp.com/menu/marias-pastry-shop-boston
+Panificio,http://www.yelp.com/menu/panificio-boston
+Cafe Vanille,http://www.yelp.com/menu/cafe-vanille-boston
+Acropolis,http://www.yelp.com/menu/acropolis-peabody
+Hei La Moon,http://www.yelp.com/menu/hei-la-moon-boston
+South Street Diner,http://www.yelp.com/menu/south-street-diner-boston
+Galley Diner,http://www.yelp.com/menu/galley-diner-south-boston
+Sunset Cantina,http://www.yelp.com/menu/sunset-cantina-boston
+Sunset Cafe,http://www.yelp.com/menu/sunset-cafe-cambridge
+Caffe Paradiso,http://www.yelp.com/menu/caffe-paradiso-boston
+Caffe Dello Sport,http://www.yelp.com/menu/caffe-dello-sport-boston/dessert-and-drink-menu
+Fill-A-Buster,http://www.yelp.com/menu/fill-a-buster-boston
+New Shanghai Restaurant,http://www.yelp.com/menu/new-shanghai-restaurant-boston
+Emack & Bolio's,http://www.yelp.com/menu/emack-and-bolios-boston-2
+Toscanini's Ice Cream,http://www.yelp.com/menu/toscaninis-ice-cream-cambridge-3
+Blue Inc,http://www.yelp.com/menu/blue-inc-boston-2
+Menton,http://www.yelp.com/menu/menton-boston
+Craigie On Main,http://www.yelp.com/menu/craigie-on-main-cambridge
+Blackstone Grill,http://www.yelp.com/menu/blackstone-grill-boston
+Emmet's Irish Pub & Restaurant,http://www.yelp.com/menu/emmets-irish-pub-and-restaurant-boston/dinner-menu
+Bagel Rising,http://www.yelp.com/menu/bagel-rising-allston
+Sorelle,http://www.yelp.com/menu/sorelle-charlestown
+The Wine Cellar,http://www.yelp.com/menu/the-wine-cellar-boston
+BOKX 109 American Prime,http://www.yelp.com/menu/bokx-109-american-prime-newton
+Henrietta's Table,http://www.yelp.com/menu/henriettas-table-cambridge
+The Capital Grille,http://www.yelp.com/menu/the-capital-grille-boston
+Grill 23 & Bar,http://www.yelp.com/menu/grill-23-and-bar-boston
+Omelette Headquarters,http://www.yelp.com/menu/omelette-headquarters-beverly
+Carmaleno's Pushcart Restaurant,http://www.yelp.com/menu/carmalenos-pushcart-restaurant-saugus-2
+Red Hat,http://www.yelp.com/menu/red-hat-boston
+Scollay Square,http://www.yelp.com/menu/scollay-square-boston
+Waxy O'Connor's Irish Pub,http://www.yelp.com/menu/waxy-o-connors-irish-pub-lexington-2
+Vintage Lounge,http://www.yelp.com/menu/vintage-lounge-boston/lunch-menu
+Drink,http://www.yelp.com/menu/drink-boston
+Tryst,http://www.yelp.com/menu/tryst-arlington
+Honey Dew Donuts,http://www.yelp.com/menu/honey-dew-donuts-canton-3
+Intermission Tavern,http://www.yelp.com/menu/intermission-tavern-boston-2
+Rock Bottom Restaurant,http://www.yelp.com/menu/rock-bottom-restaurant-boston
+Ninety Nine Restaurant & Pub,http://www.yelp.com/menu/ninety-nine-restaurant-and-pub-revere
+South End Buttery,http://www.yelp.com/menu/south-end-buttery-boston-3/catering-menu
+West End Johnnies,http://www.yelp.com/menu/west-end-johnnies-boston
+Drink,http://www.yelp.com/menu/drink-boston
+Oliveiras Restaurant East Boston,http://www.yelp.com/menu/oliveiras-restaurant-east-boston-boston
+Oasis Brazilian Restaurant,http://www.yelp.com/menu/oasis-brazilian-restaurant-medford
+LA Burdick Chocolate,http://www.yelp.com/menu/la-burdick-chocolate-cambridge
+Finale,http://www.yelp.com/menu/finale-boston
+Max Brenner,http://www.yelp.com/menu/max-brenner-boston-2
+Tasty Gourmet,http://www.yelp.com/menu/tasty-gourmet-medford
+Cityside Diner,http://www.yelp.com/menu/cityside-diner-beverly
+CitySide,http://www.yelp.com/menu/cityside-brighton
+Basho Japanese Brasserie,http://www.yelp.com/menu/basho-japanese-brasserie-boston-2
+Piccolo Nido,http://www.yelp.com/menu/piccolo-nido-boston-2
+Burger King,http://www.yelp.com/menu/burger-king-boston-12
+Bickford's Family Restaurant,http://www.yelp.com/menu/bickfords-family-restaurant-woburn-2
+Picco,http://www.yelp.com/menu/picco-boston-2
+Coppa,http://www.yelp.com/menu/coppa-boston-2
+Taranta Cucina Meridionale,http://www.yelp.com/menu/taranta-cucina-meridionale-boston
+Limoncello Ristorante,http://www.yelp.com/menu/limoncello-ristorante-boston-2
+Trattoria Il Panino,http://www.yelp.com/menu/trattoria-il-panino-boston
+Legal Sea Foods,http://www.yelp.com/menu/legal-sea-foods-boston-4
+Something Savory Catering,http://www.yelp.com/menu/something-savory-catering-arlington/corporate-catering-and-lunch-menu
+India Quality Restaurant,http://www.yelp.com/menu/india-quality-restaurant-boston
+Coolidge Corner Clubhouse,http://www.yelp.com/menu/coolidge-corner-clubhouse-brookline
+Fire + Ice,http://www.yelp.com/menu/fire-ice-boston
+Wendy's,http://www.yelp.com/menu/wendys-boston-3
+Thai Basil Restaurant,http://www.yelp.com/menu/thai-basil-restaurant-boston
+Yankee Lobster Fish Market,http://www.yelp.com/menu/yankee-lobster-fish-market-boston
+Neptune Oyster,http://www.yelp.com/menu/neptune-oyster-boston
+Teranga,http://www.yelp.com/menu/teranga-boston
+Rustic Kitchen,http://www.yelp.com/menu/rustic-kitchen-boston-3
+Eastern Standard Kitchen,http://www.yelp.com/menu/eastern-standard-kitchen-boston-2
+Kitty O'Shea's Irish Pub,http://www.yelp.com/menu/kitty-o-sheas-irish-pub-beverly
+La Famiglia Giorgio's,http://www.yelp.com/menu/la-famiglia-giorgios-boston-3
+Trattoria di Monica,http://www.yelp.com/menu/trattoria-di-monica-boston/main-menu
+Redbones,http://www.yelp.com/menu/redbones-somerville
+McCormick & Schmick's,http://www.yelp.com/menu/mccormick-and-schmicks-providence
+Thai Dish,http://www.yelp.com/menu/thai-dish-boston
+Thaitation,http://www.yelp.com/menu/thaitation-boston
+Hurricane O'Reilly's,http://www.yelp.com/menu/hurricane-o-reillys-boston
+Eastern Standard Kitchen,http://www.yelp.com/menu/eastern-standard-kitchen-boston-2
+Petit Robert Central,http://www.yelp.com/menu/petit-robert-central-boston
+Kupel's Bakery,http://www.yelp.com/menu/kupels-bakery-brookline-2
+Shanghai Gate,http://www.yelp.com/menu/shanghai-gate-allston
+Wing's Kitchen,http://www.yelp.com/menu/wings-kitchen-boston-2
+Halfway Cafe,http://www.yelp.com/menu/halfway-cafe-canton
+Legal Sea Foods,http://www.yelp.com/menu/legal-sea-foods-boston-9
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+Veggie Galaxy,http://www.yelp.com/menu/veggie-galaxy-cambridge
+Coda,http://www.yelp.com/menu/coda-boston
+Post 390,http://www.yelp.com/menu/post-390-boston/dinner-menu
+Back Deck,http://www.yelp.com/menu/back-deck-boston/lunch
+Crema Cafe,http://www.yelp.com/menu/crema-cafe-cambridge-2
+The Courtyard Restaurant,http://www.yelp.com/menu/the-courtyard-restaurant-boston
+Salts Restaurant,http://www.yelp.com/menu/salts-restaurant-cambridge
+Ocean Wealth,http://www.yelp.com/menu/ocean-wealth-boston
+Toro,http://www.yelp.com/menu/toro-boston
+Coppa,http://www.yelp.com/menu/coppa-boston-2
+Oishii Boston,http://www.yelp.com/menu/oishii-boston-boston
+Ristorante Fiore,http://www.yelp.com/menu/ristorante-fiore-boston-2
+Cafe Rustico,http://www.yelp.com/menu/cafe-rustico-boston
+Tremont 647,http://www.yelp.com/menu/tremont-647-boston
+Coppa,http://www.yelp.com/menu/coppa-boston-2
+Finagle A Bagel,http://www.yelp.com/menu/finagle-a-bagel-boston-5
+Sound Bites BBQ,http://www.yelp.com/menu/sound-bites-bbq-somerville
+Sound Bites,http://www.yelp.com/menu/sound-bites-somerville
+Union Oyster House,http://www.yelp.com/menu/union-oyster-house-boston
+Neptune Oyster,http://www.yelp.com/menu/neptune-oyster-boston
+Island Creek Oyster Bar,http://www.yelp.com/menu/island-creek-oyster-bar-boston/dinner
+Friendly's,http://www.yelp.com/menu/friendlys-weymouth
+Rebecca's Cafe,http://www.yelp.com/menu/rebeccas-cafe-cambridge
+Eastern Standard Kitchen,http://www.yelp.com/menu/eastern-standard-kitchen-boston-2
+Kingston Station,http://www.yelp.com/menu/kingston-station-boston/lunch-menu
+Mistral Restaurant,http://www.yelp.com/menu/mistral-restaurant-boston
+Veggie Planet,http://www.yelp.com/menu/veggie-planet-cambridge
+Menton,http://www.yelp.com/menu/menton-boston
+Roast Beef and Pizza King,http://www.yelp.com/menu/roast-beef-and-pizza-king-somerville
+Cafe Dilara,http://www.yelp.com/menu/cafe-dilara-cambridge
+Skampa,http://www.yelp.com/menu/skampa-cambridge
+Bukowski Tavern,http://www.yelp.com/menu/bukowski-tavern-boston
+Harvard Gardens,http://www.yelp.com/menu/harvard-gardens-boston
+The Sevens,http://www.yelp.com/menu/the-sevens-boston
+Bugaboo Creek Steak House,http://www.yelp.com/menu/bugaboo-creek-steak-house-nashua-2
+The Sevens,http://www.yelp.com/menu/the-sevens-boston
+Toro,http://www.yelp.com/menu/toro-boston
+Odyssey Grill,http://www.yelp.com/menu/odyssey-grill-winthrop
+Zo,http://www.yelp.com/menu/zo-boston
+Charlie's Kitchen,http://www.yelp.com/menu/charlies-kitchen-cambridge
+Charlie's Sandwich Shoppe,http://www.yelp.com/menu/charlies-sandwich-shoppe-boston
+Island Creek Oyster Bar,http://www.yelp.com/menu/island-creek-oyster-bar-boston/dinner
+Mike & Patty's,http://www.yelp.com/menu/mike-and-pattys-boston/breakfast-menu
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+Sanctuary,http://www.yelp.com/menu/sanctuary-boston
+Globe Bar and Cafe,http://www.yelp.com/menu/globe-bar-and-cafe-boston
+J J Foley's Cafe,http://www.yelp.com/menu/j-j-foleys-cafe-boston-3/sunday-brunch-menu
+JJ Foley's,http://www.yelp.com/menu/jj-foleys-boston
+Gennaro's Eatery,http://www.yelp.com/menu/gennaros-eatery-quincy
+Tresca,http://www.yelp.com/menu/tresca-boston
+Lucia Ristorante,http://www.yelp.com/menu/lucia-ristorante-boston
+Cosi,http://www.yelp.com/menu/cosi-boston
+Giacomo's,http://www.yelp.com/menu/giacomos-boston
+Giacomo's Ristorante,http://www.yelp.com/menu/giacomos-ristorante-boston
+Papa Gino's,http://www.yelp.com/menu/papa-ginos-boston
+Papa Gino's Pizzeria,http://www.yelp.com/menu/papa-ginos-pizzeria-quincy/main-menu
+Bugaboo Creek Steak House,http://www.yelp.com/menu/bugaboo-creek-steak-house-braintree-2
+Rock Bottom Restaurant,http://www.yelp.com/menu/rock-bottom-restaurant-boston
+Spuds Restaurant & Pub,http://www.yelp.com/menu/spuds-restaurant-and-pub-saugus-2
+Spud's Restaurant & Pub,http://www.yelp.com/menu/spuds-restaurant-and-pub-woburn-3
+Area Four,http://www.yelp.com/menu/area-four-cambridge/not-pizza
+163 Vietnamese Sandwiches & Bubble Tea,http://www.yelp.com/menu/163-vietnamese-sandwiches-and-bubble-tea-boston
+D'Angelo Grilled Sandwiches,http://www.yelp.com/menu/d-angelo-grilled-sandwiches-brockton-3/main-menu
+Toro,http://www.yelp.com/menu/toro-boston
+Gaslight Brasserie Du Coin,http://www.yelp.com/menu/gaslight-brasserie-du-coin-boston/main-menu
+Smith & Wollensky,http://www.yelp.com/menu/smith-and-wollensky-boston-2/dinner
+The Lower Depths,http://www.yelp.com/menu/the-lower-depths-boston
+The Hill Tavern,http://www.yelp.com/menu/the-hill-tavern-boston
+SOFRA Bakery & Cafe,http://www.yelp.com/menu/sofra-bakery-and-cafe-cambridge
+Lizzy's,http://www.yelp.com/menu/lizzys-cambridge
+LA Burdick Chocolate,http://www.yelp.com/menu/la-burdick-chocolate-cambridge
+Algiers Coffee House,http://www.yelp.com/menu/algiers-coffee-house-cambridge
+Andala Coffee House,http://www.yelp.com/menu/andala-coffee-house-cambridge-2
+Smith & Wollensky,http://www.yelp.com/menu/smith-and-wollensky-boston-2/dinner
+Grill 23 & Bar,http://www.yelp.com/menu/grill-23-and-bar-boston
+Stanhope Grille,http://www.yelp.com/menu/stanhope-grille-boston
+Cuffs,http://www.yelp.com/menu/cuffs-boston/main-menu
+Towne Stove and Spirits,http://www.yelp.com/menu/towne-stove-and-spirits-boston
+Steel & Rye,http://www.yelp.com/menu/steel-and-rye-milton/dinner-menu
+The Abbey,http://www.yelp.com/menu/the-abbey-brookline/dinner-menu
+Stella,http://www.yelp.com/menu/stella-boston
+Nick's Place,http://www.yelp.com/menu/nicks-place-winthrop
+Hennessy's,http://www.yelp.com/menu/hennessys-boston-2
+J J Foley's Cafe,http://www.yelp.com/menu/j-j-foleys-cafe-boston-3/sunday-brunch-menu
+JJ Foley's,http://www.yelp.com/menu/jj-foleys-boston
+Greenhouse Cafe,http://www.yelp.com/menu/greenhouse-cafe-cambridge
+Joe Tecce's Ristorante & Caffe,http://www.yelp.com/menu/joe-tecces-ristorante-and-caffe-boston
+Alfredo's Restaurant,http://www.yelp.com/menu/alfredos-restaurant-quincy
+Sugar Bowl Cafe,http://www.yelp.com/menu/sugar-bowl-cafe-dorchester
+Max & Dylans,http://www.yelp.com/menu/max-and-dylans-boston
+Max Brenner,http://www.yelp.com/menu/max-brenner-boston-2
+Towne Stove and Spirits,http://www.yelp.com/menu/towne-stove-and-spirits-boston
+Asana,http://www.yelp.com/menu/asana-boston
+Gourmet Dumpling House,http://www.yelp.com/menu/gourmet-dumpling-house-boston
+New Shanghai Restaurant,http://www.yelp.com/menu/new-shanghai-restaurant-boston
+Wing's Kitchen,http://www.yelp.com/menu/wings-kitchen-boston-2
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+Picco,http://www.yelp.com/menu/picco-boston-2
+Emilio's,http://www.yelp.com/menu/emilios-boston
+The Lower Depths,http://www.yelp.com/menu/the-lower-depths-boston
+The Gallows,http://www.yelp.com/menu/the-gallows-boston
+Deep Ellum,http://www.yelp.com/menu/deep-ellum-allston
+Drink,http://www.yelp.com/menu/drink-boston
+RumBa,http://www.yelp.com/menu/rumba-boston
+Ocean Wealth,http://www.yelp.com/menu/ocean-wealth-boston
+Clio Restaurant,http://www.yelp.com/menu/clio-restaurant-boston
+Thornton's,http://www.yelp.com/menu/thorntons-boston
+Petit Robert Bistro,http://www.yelp.com/menu/petit-robert-bistro-boston
+Petit Robert Central,http://www.yelp.com/menu/petit-robert-central-boston
+Deep Ellum,http://www.yelp.com/menu/deep-ellum-allston
+Drink,http://www.yelp.com/menu/drink-boston
+Rock Bottom Restaurant,http://www.yelp.com/menu/rock-bottom-restaurant-boston
+Hub Pub,http://www.yelp.com/menu/hub-pub-boston
+Emmet's Irish Pub & Restaurant,http://www.yelp.com/menu/emmets-irish-pub-and-restaurant-boston/dinner-menu
+Mikes City Diner,http://www.yelp.com/menu/mikes-city-diner-boston
+South Street Diner,http://www.yelp.com/menu/south-street-diner-boston
+Kelly's Diner,http://www.yelp.com/menu/kellys-diner-somerville
+Piattini,http://www.yelp.com/menu/piattini-boston-3
+Coppa,http://www.yelp.com/menu/coppa-boston-2
+Ninety Nine Restaurant & Pub,http://www.yelp.com/menu/ninety-nine-restaurant-and-pub-quincy
+Yard House,http://www.yelp.com/menu/yard-house-dedham
+Meritage,http://www.yelp.com/menu/meritage-boston
+Mistral Restaurant,http://www.yelp.com/menu/mistral-restaurant-boston
+Hamersley's Bistro,http://www.yelp.com/menu/hamersleys-bistro-boston
+Alfredo's Italian Kitchen,http://www.yelp.com/menu/alfredos-italian-kitchen-medford
+The Chantey At Marina Bay,http://www.yelp.com/menu/the-chantey-at-marina-bay-quincy
+Ironside Grill,http://www.yelp.com/menu/ironside-grill-charlestown
+The Warren Tavern,http://www.yelp.com/menu/the-warren-tavern-charlestown/brunch-menu
+Artu,http://www.yelp.com/menu/artu-boston-2
+Galleria Umberto,http://www.yelp.com/menu/galleria-umberto-boston
+Masa,http://www.yelp.com/menu/masa-boston
+Temptations Cafe,http://www.yelp.com/menu/temptations-cafe-brookline
+Finale,http://www.yelp.com/menu/finale-cambridge
+Stephanie's On Newbury,http://www.yelp.com/menu/stephanies-on-newbury-boston
+15 Walnut Local Bistro,http://www.yelp.com/menu/15-walnut-local-bistro-hamilton
+The Capital Grille,http://www.yelp.com/menu/the-capital-grille-boston
+Post 390,http://www.yelp.com/menu/post-390-boston/dinner-menu
+Woody's Grill and Tap,http://www.yelp.com/menu/woodys-grill-and-tap-boston-2
+Oishii Sushi Bar,http://www.yelp.com/menu/oishii-sushi-bar-chestnut-hill-2
+Oishii Boston,http://www.yelp.com/menu/oishii-boston-boston
+Papa Razzi,http://www.yelp.com/menu/papa-razzi-wellesley/dinner
+Casa Portugal,http://www.yelp.com/menu/casa-portugal-cambridge
+Fresh City,http://www.yelp.com/menu/fresh-city-boston-2
+Al Capone's V,http://www.yelp.com/menu/al-capones-v-boston
+Bukowski Tavern,http://www.yelp.com/menu/bukowski-tavern-boston
+Porter's Bar & Grill,http://www.yelp.com/menu/porters-bar-and-grill-boston
+Moogy's Restaurant,http://www.yelp.com/menu/moogys-restaurant-brighton
+Andalus Pizza and Cafe,http://www.yelp.com/menu/andalus-pizza-and-cafe-brighton
+All Star Sandwich Bar,http://www.yelp.com/menu/all-star-sandwich-bar-cambridge
+The Four's,http://www.yelp.com/menu/the-fours-boston/lunch-menu
+Brandy Pete's,http://www.yelp.com/menu/brandy-petes-boston
+Stephanie's On Newbury,http://www.yelp.com/menu/stephanies-on-newbury-boston
+Dunkin' Donuts,http://www.yelp.com/menu/dunkin-donuts-boston-61
+Dunkin Donuts,http://www.yelp.com/menu/dunkin-donuts-boston-36
+Stephanie's On Newbury,http://www.yelp.com/menu/stephanies-on-newbury-boston
+Hong Kong Eatery,http://www.yelp.com/menu/hong-kong-eatery-quincy
+Cafeteria Boston,http://www.yelp.com/menu/cafeteria-boston-boston
+Stephanie's On Newbury,http://www.yelp.com/menu/stephanies-on-newbury-boston
+Stephi's on Tremont,http://www.yelp.com/menu/stephis-on-tremont-boston
+Myers + Chang,http://www.yelp.com/menu/myers-chang-boston
+City Landing,http://www.yelp.com/menu/city-landing-boston
+Top of the Hub,http://www.yelp.com/menu/top-of-the-hub-boston
+Phil's Galley Grille,http://www.yelp.com/menu/phils-galley-grille-swampscott
+Panera Bread,http://www.yelp.com/menu/panera-bread-boston-2
+Tommy Doyle's,http://www.yelp.com/menu/tommy-doyles-newton
+Cafe Rustico,http://www.yelp.com/menu/cafe-rustico-boston
+Drink,http://www.yelp.com/menu/drink-boston
+Jm Curley,http://www.yelp.com/menu/jm-curley-boston
+Tastings Wine Bar and Bistro,http://www.yelp.com/menu/tastings-wine-bar-and-bistro-foxboro
+Bin 26 Enoteca,http://www.yelp.com/menu/bin-26-enoteca-boston
+Panera Bread,http://www.yelp.com/menu/panera-bread-boston
+Legal Sea Foods,http://www.yelp.com/menu/legal-sea-foods-boston-12
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+Canary Square,http://www.yelp.com/menu/canary-square-boston
+Abe & Louie's Steak House,http://www.yelp.com/menu/abe-and-louies-steak-house-boston/brunch
+Yard House,http://www.yelp.com/menu/yard-house-boston
+The Hawthorne,http://www.yelp.com/menu/the-hawthorne-boston-2
+Eastern Standard Kitchen,http://www.yelp.com/menu/eastern-standard-kitchen-boston-2
+Dillon's,http://www.yelp.com/menu/dillons-boston
+Samurai Eatery,http://www.yelp.com/menu/samurai-eatery-boston-2
+Sushi Time,http://www.yelp.com/menu/sushi-time-boston
+The Parish Cafe,http://www.yelp.com/menu/the-parish-cafe-boston
+Uburger,http://www.yelp.com/menu/uburger-boston
+UBurger,http://www.yelp.com/menu/uburger-boston-9
+Mike's Restaurant,http://www.yelp.com/menu/mikes-restaurant-somerville
+Mike's Pastry,http://www.yelp.com/menu/mikes-pastry-boston
+Mike & Patty's,http://www.yelp.com/menu/mike-and-pattys-boston/breakfast-menu
+Morton's The Steakhouse,http://www.yelp.com/menu/mortons-the-steakhouse-boston-2/dinner-menu
+Abe & Louie's Steak House,http://www.yelp.com/menu/abe-and-louies-steak-house-boston/brunch
+Newtowne Variety,http://www.yelp.com/menu/newtowne-variety-cambridge-2
+Bocca Bella Cafe & Bistro,http://www.yelp.com/menu/bocca-bella-cafe-and-bistro-auburndale-2
+Summer Shack,http://www.yelp.com/menu/summer-shack-cambridge
+Blunch,http://www.yelp.com/menu/blunch-boston
+Uno Chicago Grill,http://www.yelp.com/menu/uno-chicago-grill-boston
+Burtons Grill,http://www.yelp.com/menu/burtons-grill-peabody
+Silvertone,http://www.yelp.com/menu/silvertone-boston
+Trina's Starlite Lounge,http://www.yelp.com/menu/trinas-starlite-lounge-somerville-2
+Q Restaurant,http://www.yelp.com/menu/q-restaurant-boston
+Mike & Patty's,http://www.yelp.com/menu/mike-and-pattys-boston/breakfast-menu
+Modern Pastry Shop,http://www.yelp.com/menu/modern-pastry-shop-boston
+TGI Friday's,http://www.yelp.com/menu/tgi-fridays-dedham
+The Hen House Wings 'n Waffles,http://www.yelp.com/menu/the-hen-house-wings-n-waffles-boston
+Wing's Kitchen,http://www.yelp.com/menu/wings-kitchen-boston-2
+The Black Rose,http://www.yelp.com/menu/the-black-rose-boston
+Paddy's Pub,http://www.yelp.com/menu/paddys-pub-west-newton
+Baltic Deli & Cafe,http://www.yelp.com/menu/baltic-deli-and-cafe-boston
+Barlow's Restaurant,http://www.yelp.com/menu/barlows-restaurant-boston/brunch-menu
+Amrheins,http://www.yelp.com/menu/amrheins-boston-2
+Foundry on Elm,http://www.yelp.com/menu/foundry-on-elm-somerville
+Saus,http://www.yelp.com/menu/saus-boston
+Sunset Grill and Tap,http://www.yelp.com/menu/sunset-grill-and-tap-allston
+La Verdad,http://www.yelp.com/menu/la-verdad-boston
+Stephanie's On Newbury,http://www.yelp.com/menu/stephanies-on-newbury-boston
+Stephi's on Tremont,http://www.yelp.com/menu/stephis-on-tremont-boston
+Douzo,http://www.yelp.com/menu/douzo-boston
+Oishii Sushi Bar,http://www.yelp.com/menu/oishii-sushi-bar-chestnut-hill-2
+Oishii Boston,http://www.yelp.com/menu/oishii-boston-boston
+From Scratch,http://www.yelp.com/menu/from-scratch-medfield/breakfast-menu
+Sam LaGrassa's,http://www.yelp.com/menu/sam-lagrassas-boston-3
+Strega Waterfront,http://www.yelp.com/menu/strega-waterfront-boston
+Regina Pizzeria,http://www.yelp.com/menu/regina-pizzeria-boston-3
+Mamma Maria,http://www.yelp.com/menu/mamma-maria-boston
+Mikes City Diner,http://www.yelp.com/menu/mikes-city-diner-boston
+Deluxe Station Diner,http://www.yelp.com/menu/deluxe-station-diner-newton
+South Street Diner,http://www.yelp.com/menu/south-street-diner-boston
+Journeyman,http://www.yelp.com/menu/journeyman-somerville
+Bondir,http://www.yelp.com/menu/bondir-cambridge-2
+Pearl Villa Seafood Restaurant,http://www.yelp.com/menu/pearl-villa-seafood-restaurant-boston
+The Oceanaire Seafood Room,http://www.yelp.com/menu/the-oceanaire-seafood-room-boston
+Neptune Oyster,http://www.yelp.com/menu/neptune-oyster-boston
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+Ristorante Fiore,http://www.yelp.com/menu/ristorante-fiore-boston-2
+Post 390,http://www.yelp.com/menu/post-390-boston/dinner-menu
+Thai Basil Restaurant,http://www.yelp.com/menu/thai-basil-restaurant-boston
+Montien,http://www.yelp.com/menu/montien-boston
+King and I,http://www.yelp.com/menu/king-and-i-boston-2
+Beantown Pub,http://www.yelp.com/menu/beantown-pub-boston
+Tasty Burger,http://www.yelp.com/menu/tasty-burger-boston
+Four Burgers,http://www.yelp.com/menu/four-burgers-cambridge
+Caffe Paradiso,http://www.yelp.com/menu/caffe-paradiso-boston
+Caffe Dello Sport,http://www.yelp.com/menu/caffe-dello-sport-boston/dessert-and-drink-menu
+Gelateria,http://www.yelp.com/menu/gelateria-boston
+Caffe Dello Sport,http://www.yelp.com/menu/caffe-dello-sport-boston/dessert-and-drink-menu
+Modern Pastry Shop,http://www.yelp.com/menu/modern-pastry-shop-boston
+The Oceanaire Seafood Room,http://www.yelp.com/menu/the-oceanaire-seafood-room-boston
+Villa Francesca,http://www.yelp.com/menu/villa-francesca-boston
+The Lower Depths,http://www.yelp.com/menu/the-lower-depths-boston
+Bukowski Tavern,http://www.yelp.com/menu/bukowski-tavern-boston
+Four Green Fields,http://www.yelp.com/menu/four-green-fields-boston
+Wing's Kitchen,http://www.yelp.com/menu/wings-kitchen-boston-2
+Hong Kong Eatery,http://www.yelp.com/menu/hong-kong-eatery-boston
+Angora Cafe,http://www.yelp.com/menu/angora-cafe-boston
+Angora Ice,http://www.yelp.com/menu/angora-ice-chestnut-hill
+Baltic Deli & Cafe,http://www.yelp.com/menu/baltic-deli-and-cafe-boston
+Riverbend Restaurant,http://www.yelp.com/menu/riverbend-restaurant-newton
+Bukowski Tavern,http://www.yelp.com/menu/bukowski-tavern-boston
+Sunset Grill and Tap,http://www.yelp.com/menu/sunset-grill-and-tap-allston
+Sunset Cantina,http://www.yelp.com/menu/sunset-cantina-boston
+Sorelle Bakery Cafe,http://www.yelp.com/menu/sorelle-bakery-cafe-charlestown
+Legal Sea Foods,http://www.yelp.com/menu/legal-sea-foods-boston-9
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+Steve's Kitchen,http://www.yelp.com/menu/steves-kitchen-allston
+Eastern Standard Kitchen,http://www.yelp.com/menu/eastern-standard-kitchen-boston-2
+Steve's Greek Restaurant,http://www.yelp.com/menu/steves-greek-restaurant-boston
+Marliave,http://www.yelp.com/menu/marliave-boston
+Beantown Pub,http://www.yelp.com/menu/beantown-pub-boston
+Finagle A Bagel,http://www.yelp.com/menu/finagle-a-bagel-boston-6
+Deuxave,http://www.yelp.com/menu/deuxave-boston
+Met Back Bay,http://www.yelp.com/menu/met-back-bay-boston
+B. Good,http://www.yelp.com/menu/b-good-boston-4
+Menton,http://www.yelp.com/menu/menton-boston
+No. 9 Park,http://www.yelp.com/menu/no-9-park-boston
+Sportello,http://www.yelp.com/menu/sportello-boston
+Fin's Sushi and Grill,http://www.yelp.com/menu/fins-sushi-and-grill-boston
+Symphony Sushi,http://www.yelp.com/menu/symphony-sushi-boston
+Stoddard's Fine Food & Ale,http://www.yelp.com/menu/stoddards-fine-food-and-ale-boston/dinner-winter-2013
+B. Good,http://www.yelp.com/menu/b-good-boston-4
+Atlantic Fish Company,http://www.yelp.com/menu/atlantic-fish-company-boston/brunch
+The Tap,http://www.yelp.com/menu/the-tap-boston
+El Triunfo,http://www.yelp.com/menu/el-triunfo-boston
+Flamers Grill,http://www.yelp.com/menu/flamers-grill-boston
+Theo's Cozy Corner,http://www.yelp.com/menu/theos-cozy-corner-boston
+Mikes City Diner,http://www.yelp.com/menu/mikes-city-diner-boston
+Victoria's Diner,http://www.yelp.com/menu/victorias-diner-boston
+Ernesto's,http://www.yelp.com/menu/ernestos-boston
+Legal Sea Foods,http://www.yelp.com/menu/legal-sea-foods-boston-9
+Skipjack's Seafood Emporium,http://www.yelp.com/menu/skipjacks-seafood-emporium-boston-2
+No. 9 Park,http://www.yelp.com/menu/no-9-park-boston
+Douzo,http://www.yelp.com/menu/douzo-boston
+Pho Viet,http://www.yelp.com/menu/pho-viet-boston-3
+Tory Row,http://www.yelp.com/menu/tory-row-cambridge
+Freshens,http://www.yelp.com/menu/freshens-cambridge
+Mikes City Diner,http://www.yelp.com/menu/mikes-city-diner-boston
+Charlie's Sandwich Shoppe,http://www.yelp.com/menu/charlies-sandwich-shoppe-boston
+The Burrito Company,http://www.yelp.com/menu/the-burrito-company-woonsocket
+Chacarero,http://www.yelp.com/menu/chacarero-boston-2
+Sam LaGrassa's,http://www.yelp.com/menu/sam-lagrassas-boston-3
+LongHorn Steakhouse,http://www.yelp.com/menu/longhorn-steakhouse-haverhill
+Santarpio's Pizza,http://www.yelp.com/menu/santarpios-pizza-boston-2
+Regina Pizzeria,http://www.yelp.com/menu/regina-pizzeria-boston-3
+Dacoopa Sub and Pizza,http://www.yelp.com/menu/dacoopa-sub-and-pizza-boston
+Salts Restaurant,http://www.yelp.com/menu/salts-restaurant-cambridge
+Bergamot,http://www.yelp.com/menu/bergamot-somerville
+Mistral Restaurant,http://www.yelp.com/menu/mistral-restaurant-boston
+Tresca,http://www.yelp.com/menu/tresca-boston
+Gennaro's 5 North Square,http://www.yelp.com/menu/gennaros-5-north-square-boston
+Scampo,http://www.yelp.com/menu/scampo-boston
+Toscano Restaurant,http://www.yelp.com/menu/toscano-restaurant-boston
+Conrad's Pizza,http://www.yelp.com/menu/conrads-pizza-lowell-2

@@ -1,0 +1,127 @@
+4b7ebeb8f964a52075fc2fe3,dunkin donuts
+3fd66200f964a520beed1ee3,baskin-robbins
+4e4e44cdbd4101d0d7a66c56,baskin-robbins
+4cfea95462a38cfab7d95932,baskin-robbins
+4f32379419836c91c7c1acf3,baskin-robbins
+4bd0afef462cb71323e0d807,baskin-robbins
+4e4e44ccbd4101d0d7a66c4b,baskin-robbins
+4e4e44cebd4101d0d7a66c82,baskin-robbins
+4e4e44cebd4101d0d7a66c98,baskin-robbins
+4e4e44cdbd4101d0d7a66c6c,baskin-robbins
+4e4dff9abd4101d0d79feda6,kfc - kentucky fried chicken
+4a9e9761f964a5208c3a20e3,chipotle mexican grill
+4ad3da79f964a520a0e620e3,chipotle mexican grill
+4bd07baa41b9ef3b1d24fae5,chipotle mexican grill
+4bee0353a40fc92852ed820c,kfc
+4bf1942a189f0f47f26db762,kfc
+4e4dff96bd4101d0d79fed1b,kfc
+4b4f7529f964a520740727e3,kfc
+4f320f2a19833175d60c74b1,kfc
+4d864ed750913704033fa95b,kfc
+4e4dff96bd4101d0d79fed26,kfc
+4bf9732b8f32ef3b7cb304aa,kfc
+4ba3b1f1f964a520595538e3,kfc
+4ad36a7df964a52042e420e3,kfc
+4f3279e819836c91c7db85a7,kfc
+4bc89b1692b376b0a1c0513a,kfc
+4a46a49cf964a52037a91fe3,kfc
+4bf33e7d354e9c741a912602,kfc
+4f32179d19836c91c7b501f5,kfc
+4f32972219836c91c7e6a5d2,kfc
+4c37a79d1e06d13ab65b763e,kfc
+4c5f1791b6f3be9ad34c5c73,kfc
+4b1edf36f964a520d72024e3,kfc
+4e4dff9ebd4101d0d79fee27,kfc
+4e4dff95bd4101d0d79fed10,kfc
+515c82ccf0e4172442779d2d,kfc
+4bc63effdb8fa59356069c37,kfc
+4f4467e419836ed00193e31a,kfc
+4e4dffa0bd4101d0d79fee78,kfc
+4dcd643945ddbe15f86e5231,kfc
+51b79ea587f3678581319666,kfc
+4d6d8baf21acf04d836b513a,kfc
+4a97b966f964a520b62920e3,dunkin' donuts
+4f32250519836c91c7ba877a,outback steakhouse
+4f32671d19836c91c7d4581b,outback steakhouse
+4b411f26f964a52081c125e3,outback steakhouse
+4ba5422ef964a520c3f238e3,outback steakhouse
+4b19aa4ff964a52084e123e3,outback steakhouse
+4af5fc1bf964a520ceff21e3,outback steakhouse
+47614d0ef964a520e04c1fe3,outback steakhouse
+4b69fc0ff964a520c1bf2be3,outback steakhouse
+4f322f6419836c91c7be82a3,ihop
+4b7166b4f964a520b7442de3,ihop
+4e4dac9fbd41b76bef9175ab,ihop
+4b1bfb15f964a520050024e3,ihop
+4bb6925df562ef3b34683097,ihop
+4b787e29f964a5200ed22ee3,ihop
+4b0345a0f964a520274e22e3,popeye's
+4a36e360f964a520f79d1fe3,taco bell
+4b7f3181f964a5200d1e30e3,taco bell
+4ac0fde2f964a520549520e3,panera bread
+4ac7dd6df964a5203cba20e3,panera bread
+4d270dbc888af04dc687b8af,panera bread
+4aa7f8a2f964a5205c4e20e3,panera bread
+49c6f240f964a5208e571fe3,panera bread
+4abf9255f964a520219120e3,panera bread
+429a5780f964a52071241fe3,panera bread
+4a88413af964a520930520e3,panera bread
+4b82d346f964a52074e730e3,panera bread
+4bd469d7637ba5932394f470,panera bread
+4b2d1938f964a5203ece24e3,panera bread
+4a9963b4f964a520132e20e3,panera bread
+4b54f166f964a52061d427e3,panera bread
+4c76983566be6dcba68ec30f,panera bread
+4c425b293735be9a89f519a4,panera bread
+4a6f48f3f964a520cbd51fe3,panera bread
+4ac0e8f1f964a520f49420e3,panera bread
+4bcb0fc5b6c49c74596a9191,panera bread
+4a5ba61ff964a52097bb1fe3,panera bread
+4b3e77b8f964a5209e9d25e3,panera bread
+4b6316f1f964a5202c622ae3,panera bread
+4a79e829f964a520f5e71fe3,panera bread
+4ba156c2f964a52024ae37e3,panera bread
+4a8729eaf964a520fb0220e3,qdoba mexican grill
+4b0de0edf964a520ef5123e3,qdoba mexican grill
+4afb5763f964a5201e1d22e3,qdoba mexican grill
+4a670b35f964a520e1c81fe3,starbucks
+4af2cbfaf964a5208ae821e3,starbucks
+4a282aaef964a520fb941fe3,starbucks
+4a9edff8f964a520963b20e3,starbucks
+42829c80f964a5205e221fe3,starbucks
+42829c80f964a5205d221fe3,starbucks
+4b117232f964a520ba7c23e3,starbucks
+4a37f512f964a5209b9e1fe3,starbucks
+4a3be064f964a520dba01fe3,starbucks
+4b1a9bc5f964a52052ed23e3,starbucks
+4aa84203f964a520735020e3,starbucks
+4a367231f964a5208a9d1fe3,starbucks
+4bf1704f25afb713e7044b6f,subway
+4b058a1bf964a52000df22e3,subway
+50b3b7cee4b03641ded70a8e,subway
+4b4f415af964a520e8fe26e3,subway
+4bd85718e914a593f2f152fa,subway
+4c1d27a663750f4731c7b767,subway
+4be54e312468c928fadbff42,subway
+4e4debd4bd41b76bef955fdb,subway
+4c34bbad66e40f47d807ca8b,subway
+4c1aa381b9f876b09cfc7846,subway
+4e4dec17bd41b76bef9563c7,subway
+4b6da98ff964a5203a842ce3,subway
+4cf92c1ade096dcb76078d79,subway
+4ab540c5f964a5208e7320e3,subway
+4e4debebbd41b76bef956120,subway
+4bbbacd4e436ef3bcba65564,subway
+4b97d7d5f964a5207e1935e3,subway
+4c55b99272cf0f47c584bbd6,subway
+4e4dec24bd41b76bef95649f,subway
+4e4dec3dbd41b76bef956626,subway
+4d015d2a9fada35dc8b43c34,subway
+4b6b5c58f964a5206f032ce3,subway
+4bd0e158b221c9b650a8d4d0,subway
+4bfd9bcb4cf820a180b8ecf4,subway
+4b76fc7ef964a5209f712ee3,chick-fil-a
+4b6cb6d3f964a520714e2ce3,chick-fil-a
+4c2544e3f7ced13a0354246d,kfc/taco bell
+4b5f93abf964a52095c229e3,hooters
+4e4c53a1bd413c4cc6688484,hooters

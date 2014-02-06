@@ -1,0 +1,501 @@
+51f2b2c1498e2e08fe60c341,Burgerfi,n
+4ca3e4bc750ca093400e1d67,Bout Damn Time,n
+
+4f44bfd619836ed001963f61,U R Cooks Steak House,n
+
+4f43ec6de4b058e77d24d74c,Bout Time II,n
+
+4f60a13fe4b0d8a15721be9c,Del Monte,n
+
+4f4cfaf7e4b04c96fa0e1259,Steakhouse Steaks,n
+
+527b03e7498e2da8d5847f47,dominos pizza south lamar,n
+
+4e57338a62e12dc097f430b9,Longhorn Smoke Out,n
+
+51548cdde4b0389a0a0bb1c8,Wunder Waffle,n
+
+4f322f6419836c91c7be8252,Lone Star Steakhouse,n
+
+4aaba184f964a520ae5920e3,Juanita's Tacos,n
+
+4d27da3a342d6dcb8e54f2ca,House of Olives,n
+
+4f32964d19836c91c7e6565d,Pizza to Go,n
+
+4d804845ab666ea80f0403c1,El Diablo Tacos,n
+
+4c0d4d742466a593a25f7721,Tacos La Guera,n
+
+4be8ad37947820a1273fb5db,Charlie's Steak House,n
+
+4f4332dc19834bc91f5548b8,Boba Express,n
+
+4ed4474161af8b867c8c6898,Arie's Steak House,n
+
+4baaa5d1f964a5208f7c3ae3,Texas Hill Country Olive Company,n
+
+50be8873e4b04458fee15ea7,Longhorn Fried Rice,n
+
+4f3254c119836c91c7cd34dc,Longhorn Fried Rice,n
+
+4d7bd2e87498a1cdc1e271fc,Circle Brewing Company,n
+
+4b560520f964a52051fc27e3,Little Sub Trailer,n
+
+4b9bbc99f964a520691f36e3,One Taco,n
+
+4f4d4a7de4b0629e7a5419ea,Your Mom's Burger Bar,n
+
+4d8fd81fcb9b224b955fa441,Papasitos,n
+
+4d424fa55d01224b02d05e50,Carl's Jr,n
+
+4ccf5d5048b837048f94ebde,Nana & Papa's,n
+
+4e9480fa0aaf7d225b4d8cf6,Qdoba Mexican Grill,n
+
+4f8c57f1e4b0c71a74793839,Qdoba Mexican Grill,n
+
+4c54fa04f5f3d13abadffbfa,Popeyes,n
+
+52a9f43511d207da36737b51,Popeyes,n
+
+4c4cca6b74e81b8d025dc706,Popeyes,n
+
+518ebb58498e9443a1af098a,Popeyes,n
+
+50df7af9e4b08361c09bf07b,Cicis Pizza,n
+
+4f3280a219836c91c7de1551,Old San Francisco Steak House,n
+
+51ffe2f0498e736c8c076cb7,Dunkin Donuts/Baskin Robbins,n
+
+4f32a9ae19836c91c7ed9bba,Z Pizza,n
+
+4f3222a919836c91c7b9964b,Culvers,n
+
+4c8d671855fba093bb1968ab,McDonald Grill,n
+
+4d975af5af3d236af85a21c7,Elevation Burger,n
+
+4a2d508af964a520a1971fe3,Elevation Burger,n
+
+4e20ef4bb0fbdf9ba7a5315c,Panda 2 Go,n
+
+5111264de4b0cb0bdd5787fa,Party Time Beverages,n
+
+51564460e4b0c35fc3d921bf,Waffles Wings And What,n
+
+517ff89d498ef05f74d146ad,w b chicken & waffles,n
+
+52b1e49a498ec3cac6af24f3,Bob & Mike's Chicken Trailer,n
+
+4f2572b0e4b067a327d0e0b6,Jack's Tavern,n
+
+51735479e4b0eb20e18a75d4,Lobby Bar at Holiday Inn - Midtown,n
+
+4f72897ce4b0adf5ab98e58c,Art of Tacos,n
+
+5184a8c3498e5f56f41bbe52,Famous Beer Crust Pizza,n
+
+4f0279534690f6ececbb27d6,Bomb Tacos,n
+
+4f32582719836c91c7ce84ba,Pretzel Time,n
+
+50e91274e4b0d1b6cd308703,taco la canpechana,n
+
+4ff3299ce4b021ccc5eb7f72,Bob's Steak And Chop House,n
+
+44116993f964a520ca301fe3,TGI Fridays,n
+
+4b3bf963f964a5208d7f25e3,TGI Fridays,n
+
+509d636c5d2463e871547efc,TGI Fridays,n
+
+4f3279f219836c91c7db8910,Ryan's Family Steak House,n
+
+4b7c7ae5f964a52002962fe3,Burger Stadium,n
+
+4d4c6ad2e1ec6dcb3406d975,Papa's,n
+
+4f396298e4b0beedd4077387,Wholly Cow Burgers,n
+
+4d535366cf8b2c0f03fd9770,Wholly Cow Burgers,n
+
+4b54ecc8f964a5206ad327e3,Applebee's Neighborhood Grill & Bar,n
+
+4d741407548bb60ceac7b0ff,Ghost Chili Patio,n
+
+511d2768e4b03c1e6a4818f6,Toros Tacos,n
+
+4a955960f964a520f52220e3,Hill-bert's Burgers,n
+
+4a676441f964a52055c91fe3,Hill-Bert's Burgers,n
+
+4fbc3141e4b0ac65709cbbd9,The Bar @ Holiday Inn,n
+
+4cd845df53a7f04da7776216,Chipotle Mexican Grill Austin Office,n
+
+4afb5aa8f964a5203c1d22e3,Burgertex,n
+
+50707b20e4b0d53d20fedea0,Soco Burgers,n
+
+4b199d41f964a52084e023e3,Ronald McDonald House,n
+
+4d36885d48cdb1f7f644f437,Roscoe's Chili & Donuts,n
+
+50b7ae77e4b062048934a11d,Oh My Taco,n
+
+4f31a0f8e4b08a0e6db75dee,Tokyo Steakhouse Austin,n
+
+5250c418498ec9aa7b274eab,Domino's Pizza #6847,n
+
+5119348cc84c2c7061bef8fe,The Jack Burger Truck,n
+
+4ec16073e5fae164652c1a78,Nancy's Steak House,n
+
+4bc64bbcd35d9c74ed85e23a,Papa Murphy's,n
+
+523a562d498eece074d0998d,Papa Murphy's,n
+
+4cad0e3576d3a0930c28376b,Papa Murphy's,n
+
+4d8aa0b94196530c3f212df5,RedBrick Pizza,n
+
+524f793511d29fcfa6217488,Svante's stuffed burger,n
+
+513fcca2e4b0e099cb7c772f,Svante's Stuffed Burger,n
+
+4eeea818b8f76a24a6934d2b,Domino's,n
+
+4d97beedc19fb60c3b309f65,Carlos Crab Boil,n
+
+4e5cd27d45dd045aab5287d9,Tacolicious,n
+
+4b203812f964a520e12e24e3,Panda Express Lakeline Mall,n
+
+50947dc9d4387da6d85cc237,Texas Tavern,n
+
+4fbc4a84e4b0e32e56dc33d2,Lucious Leftfoot's Chicken and Waffles,n
+
+4b9b8c32f964a520950e36e3,Starbucks @ Omni Hotel,n
+
+4b9d8a65f964a520a9b236e3,Lynx Steakhouse,n
+
+5277d2d911d240e40132540f,In-N-Out Burger,n
+
+522a70a211d203fd7ca34fcc,In-N-Out Burger,n
+
+5213ae1611d2600b0be2b271,In-N-Out Burger,n
+
+4ff8ae63d63e98a680807da0,Little Fattys,n
+
+50856dbfe4b0b8e845e3d901,Sexy Time Beer Place,n
+
+4fba3c8de4b02b94957090b8,The Bistro at Courtyard by Marriott,n
+
+52486f2b498ec5a2cf6b0314,Taco Baby,n
+
+4f8e00ede4b0e77df32cdbf9,burger haus,n
+
+4f324e7819836c91c7cabfee,Barons Steakhouse,n
+
+4e4e3192bd4101d0d7a46dab,Flamers Charbroiled Burgers,n
+
+4b9c2f3af964a5208f5236e3,karma taco,n
+
+4b9c8cabf964a520a26f36e3,Stoney's Pizza,n
+
+4cbb6b4dc7228cfa17a91dce,Golden Bulldog Tavern,n
+
+4f23ab9ce4b0717a67a3f9c5,Tacos Rositas,n
+
+4a5cc29ff964a52088bc1fe3,Jimmy John's,n
+
+4a6e32a4f964a5202ed41fe3,Jimmy John's,n
+
+4a52fa03f964a5201cb21fe3,Jimmy John's,n
+
+4a9ac941f964a520b43220e3,Jimmy John's,n
+
+510574dfe4b0e45f02dee46a,Jimmy John's,n
+
+4b4247bef964a5209bd025e3,Jimmy John's,n
+
+4a8df5eaf964a5208e1120e3,Jimmy John's,n
+
+4b2fc9c7f964a520f2ef24e3,Jimmy John's,n
+
+4ee6362061aff5a3436ece96,Jimmy John's,n
+
+4b06e2c9f964a52031f222e3,Jimmy John's,n
+
+514cc39fe4b0b8a7263c7848,Jimmy John's,n
+
+4bc3b562920eb713d3e41d2c,Jimmy John's,n
+
+5034226de4b0aa0a3c2ef729,Jimmy John's,n
+
+4b65e040f964a52076052be3,Jimmy John's,n
+
+506482e0e4b0b148e88eb35a,Jimmy John's,n
+
+4e791abc8998654c7488adde,Dk Burgers,n
+
+4aa5bbaef964a520534920e3,Bomb Tacos!,n
+
+4ab1609ff964a520386920e3,Gatti's Pizza,n
+
+4bb2914235f0c9b6627bbb83,Gatti's Pizza,n
+
+4f32338e19836c91c7c02162,Gatti's Pizza,n
+
+4bd0983ca8b3a593ba34645f,Gatti's Pizza,n
+
+4bbf5d68ba9776b066fafec8,Gatti's Pizza,n
+
+4f322aa619836c91c7bcb968,Taco Sabroso,n
+
+4f3289ff19836c91c7e1aa0f,Krispy Kreme,n
+
+4f32a3ac19836c91c7eb57e4,Marcello's Pizza,n
+
+4f328d4219836c91c7e2e857,Sonic Drive-In,n
+
+4f43653e19834bc91f568304,Sonic Drive-In,n
+
+4f328aed19836c91c7e203c5,Sonic Drive-In,n
+
+4f32975c19836c91c7e6ba65,Culvers Frozen Custard,n
+
+500358b7e4b07d578ddd697e,Blue Waffles,n
+
+4f321f1319836c91c7b8199e,Texas Burger,n
+
+521cf20311d2f6e25c8738ad,Dairy Queen/Orange Julius,n
+
+4cf165cb88de3704f940722b,Mikeska's Famous BBQ,n
+
+5120f5c3e4b0320fa41146c0,Tacos To Go,n
+
+4b4c8080f964a5209bb426e3,Dunkin' Donuts,n
+
+4c195891834e2d7ff6462a80,Peach's Waffle World,n
+
+4e50bf85d22daf51d288e725,Cici,n
+
+4b50c399f964a5206c3127e3,Nagoya Steak And Sushi,n
+
+51f18497498e6f85cf835c16,Wright Bros Dairy,n
+
+522c731611d27b843faa15e2,Chickfila,n
+
+50b05260e4b01aeaf38621a4,Wild Taco,n
+
+4bf3201d3f86c9b675cfb11c,Popeyes Chicken,n
+
+40b3de00f964a52007001fe3,Little Woodrow's,n
+
+4b453d29f964a520d00826e3,Little Woodrow's,n
+
+4513f5c3f964a520cc391fe3,Little Woodrow's,n
+
+4b058ed4f964a5202edf22e3,Waffle House,n
+
+4b7fa131f964a520683730e3,Waffle House,n
+
+4d69c5f21b63a1cdf26d442d,Joseph's Backyard Steak House,n
+
+4a4cfb9ef964a52067ad1fe3,Chipotle Mexican Grill,n
+
+4a8df94ff964a520a01120e3,Chipotle Mexican Grill,n
+
+5074c1d0e4b09eeb03d04278,Chipotle Mexican Grill,n
+
+4a8ef1fbf964a5204a1320e3,Chipotle Mexican Grill,n
+
+4ad4c7c4f964a520b7fb20e3,Chipotle Mexican Grill,n
+
+4acbde36f964a5201bc820e3,Chipotle Mexican Grill,n
+
+4aeb84c0f964a520fac221e3,Chipotle Mexican Grill,n
+
+4adf741cf964a520b47a21e3,Chipotle Mexican Grill,n
+
+52cda80511d283a358695034,Chipotle Mexican Grill,n
+
+4b22901ef964a5201c4924e3,Chipotle Mexican Grill,n
+
+4bf811685efe2d7f48086a34,Chipotle Mexican Grill,n
+
+49e2b809f964a52056621fe3,Chipotle Mexican Grill,n
+
+4ad62868f964a5206c0521e3,Chipotle Mexican Grill,n
+
+49c92768f964a52036581fe3,Chipotle Mexican Grill,n
+
+4b4a38d2f964a5206f7f26e3,Chipotle Mexican Grill,n
+
+4af1e03af964a52006e421e3,Chipotle Mexican Grill,n
+
+4b8c0dc9f964a5200dbb32e3,Chipotle Mexican Grill,n
+
+4c72a7cf9e706dcb395d4b62,Spec's Deli,n
+
+4b994e13f964a520a57135e3,Down Town Burgers,n
+
+51431e48e4b0110591619bfa,TGIF,n
+
+4f32047319833175d60a1bb6,Golden Fried Chicken Restaurants,n
+
+4b91ad59f964a5203bcf33e3,Applebees,n
+
+4df37d0414954f21cf2e4866,Restaurant At Holiday Inn,n
+
+5268673411d2da563f16bc5f,Fantabulous Tacos,n
+
+4be88d8e88ed2d7f7a06cc1d,Tacos Ray,n
+
+4eebe0d79a52993fb56f4726,3 Chili Bar And Grill,n
+
+4ec7e28c9a52756c56272fac,El Tacorrido,n
+
+4f6f7c7ce4b0221c2dfd0c15,Belgian Waffle Co,n
+
+516a0769e4b0c7fcb7d674fe,Pagoda Pizza,n
+
+4bb3fcdcbd4b9c74e53f32f5,Turbo Pizza,n
+
+4f8af70ae4b01f95a449771d,Texas Steak Out,n
+
+4c7baea1df08a1cd0117e15d,Papalote Taco House,n
+
+51bcf461498e4bed54659f7c,Jimmy Buffett's 'Camp',n
+
+51c9cb82498ee7516a8e0b17,Waffles Wings And What?,n
+
+4f3246e119836c91c7c7c54b,Tinas Deli,n
+
+4f325c2319836c91c7d01593,Dennys,n
+
+4a908d99f964a5207b1820e3,Baskin Robins,n
+
+52b06d4611d2b6f2636eb4f4,Gus's World Famous Fried Chicken,n
+
+52793d22498ee4d012aa10de,Lucky J's Chicken & Waffles,n
+
+4b52ca27f964a520198827e3,Lucky J's Chicken & Waffles,n
+
+52c30a7d498e894a0c0e1630,Boardwalk Burgers & Fries,n
+
+50821816e4b0073ffabf0ef1,Burgerdome,n
+
+4f7207c0e4b04c3d16ead1ae,The Belgian Waffle Co,n
+
+527d3fb411d244a3ac8ae87b,ALC Steaks On Tour,n
+
+4bd4e6227b1876b0b40f8a86,Joe Cantuz Steak House,n
+
+4f32268419836c91c7bb1f10,Carmens Tacos,n
+
+4ec044766da15b4ddf3d14b6,Pizza Paradise,n
+
+51bc72ef498e60d2c7ae55ba,Ruby K's,n
+
+501ffc63e4b0bbddcea748cb,Ruby K's,n
+
+51f32ebc498ec6e1dc48f5f4,Little Lucy's,n
+
+51fd69df498e6da0a0ced2a4,Sonic,n
+
+51899b88498e63f79426c988,Sonic,n
+
+4b9c7bcdf964a520ba6b36e3,Philly Cheese Steak (Food Cart),n
+
+513bb88be4b02357e142dbf7,Waffle Bus,n
+
+4f89c4c3e4b002b90b942fde,steak and shake,n
+
+5218147611d27a09a631aa46,Golden Crust Pizza,n
+
+50a01c11e4b0eac4e6824fb3,Jack's Bar-B-Q,n
+
+49d0ffdbf964a5204b5b1fe3,Applebee's,n
+
+4c25664b136d20a1399fe361,Applebee's,n
+
+4a8356def964a520dbfa1fe3,Applebee's,n
+
+4b43e853f964a520c1ed25e3,Applebee's,n
+
+5079900fe4b0e94247549466,Applebee's,n
+
+4eb81f9e30f8d0f18d79ec6c,Texas Sausage Co,n
+
+45f45cd3f964a520fa431fe3,El Chilito,n
+
+49c5891ef964a5200c571fe3,Matt's Famous El Rancho,n
+
+4f32595319836c91c7cef92b,Mangia Pizza,n
+
+4ea623e9f7901bf0ae090899,The World Famous BS BBQ HAUS II,n
+
+4f10f28de4b067f66f1c9b21,Domino House,n
+
+52b0a180498e1b8390ddda2f,Tacos Ivan,n
+
+4f32a3ba19836c91c7eb5d0e,Cathy's Steakhouse,n
+
+5116a1a8e4b0e74f53b109d5,Willie G's Seafood & Steaks,n
+
+4f324f6619836c91c7cb1ca2,Whataburger Restaurants,n
+
+4b7f40aff964a520852230e3,Cartwright's Famous Bar-B-Q,n
+
+520f22f511d2a4d33a883d62,Little Plaza,n
+
+4f172277e4b0958ec6e9f0e9,Papalicious 5202 Mt Emory Cove,n
+
+509a607ee4b05dfac870ff20,Holiday Inn Restaurant,n
+
+4f257b12e4b006e5c3334cb5,Taco Joint,n
+
+52a7461c498ef06a1882649c,JC's Deli,n
+
+5047be93e4b0a21d2fa2e79b,Pinthouse Pizza,n
+
+4fefecbfe4b0d01fb29a12a6,Pizzaland,n
+
+4cd0a4811ac7a1cdaad81a92,Vince Young Steakhouse,n
+
+414f6f00f964a520fc1c1fe3,The Jackalope,n
+
+4b9ecb5cf964a520700237e3,NYPD Pizza,n
+
+4d82d62681fdb1f7c3a1dbbf,Little Bean Bakery Cafe,n
+
+4eb5573d61af0dda904c910e,White Taco Trailer,n
+
+4ea73125b8f7ff211a5ef903,Estancia Churrascaria Brazilian Steakhouse,n
+
+4fcfeab6e4b0f1f978943988,Collie's Burgers,n
+
+4d96cc772bd6f04dc2f83f50,Dogellos Chili Dogs,n
+
+4b95b7acf964a5209fb034e3,Baskin Robbins,n
+
+4bdb7abc63c5c9b65f442868,Baskin Robbins,n
+
+4c2e5c0d452620a16fb41b0f,Baskin Robbins,n
+
+514284b2e4b082a12cf2844b,Belgian Waffles,n
+
+4f324d7b19836c91c7ca5e6c,Niki's Pizza,n
+
+5287ebdf498e93276af40647,dominoes,n
+
+4f8c3b2ee4b0af4d507c785c,LongHorn Steakhouse,n
+
+4eb7fd88722e578a5088e038,LongHorn Steakhouse,n
+

@@ -1,0 +1,356 @@
+45f02c8af964a520b9431fe3,four seasons hotel austin
+4acaa83ef964a520bfc220e3,tom's tabooley
+4b8d5e6ef964a52081f732e3,costa del sol
+49c928a8f964a52038581fe3,mellow mushroom
+49ef447cf964a5208d681fe3,logan's roadhouse
+4b7d9005f964a520ecc62fe3,ancho's at omni hotel
+43a49c90f964a520512c1fe3,taverna
+4b2da6dcf964a52008da24e3,fleming's prime steakhouse & wine bar
+43c968a2f964a5209c2d1fe3,the salt lick
+4a0867b5f964a520c4731fe3,pacha
+4c38bb9593db0f47b81d2292,papa john's pizza
+44150f9cf964a520f5301fe3,paggi house
+4c37406e18e72d7fc72216f5,kolache shoppe
+4bac0606f964a520d5de3ae3,supercuts
+40b13b00f964a520a4f31ee3,flipnotics coffee space
+42e03700f964a52061261fe3,chuy's
+4a078354f964a52077731fe3,amy's ice creams
+5119580fe4b0d096be4cb0eb,cherry skin studio
+49f13134f964a52099691fe3,perla's seafood and oyster bar
+4dee6d588877aa0c3cb66db5,chago's caribbean cuisine
+49e89217f964a52053651fe3,swad indian restaurant
+4b9b0159f964a52019eb35e3,a&w and long john silvers
+4b4e4060f964a520dee626e3,torchy's tacos
+4b65d6b2f964a5202a032be3,jack in the box
+4b40fce0f964a520d4be25e3,pei wei asian diner
+423a1a00f964a5202f201fe3,halcyon coffee
+49e8d243f964a52098651fe3,iii forks
+4bb291c435f0c9b63f7cbb83,gatti's pizza
+4c7839de3badb1f7d5184b54,austin's pizza
+49e9c682f964a52004661fe3,curry in hurry
+414f6f00f964a520f61c1fe3,kerbey lane cafe
+4ab18a4af964a520e66920e3,sullivan's steakhouse
+4ab12be3f964a5204e6820e3,schlotzsky's
+4b5b51bdf964a52041f428e3,genghis grill
+4ba1a83af964a5204bc637e3,popeyes louisiana kitchen
+4a2aff1cf964a52080961fe3,roaring fork
+4a32eb9ff964a520c19a1fe3,saltgrass steak house
+4d8b6185141e6a313a227b56,murphy's deli
+4a707942f964a5208cd71fe3,fuddruckers
+4b33abe1f964a5208c1c25e3,honeybaked ham
+4e4dae55bd41b76bef918c45,salsarita's
+45f2615bf964a520db431fe3,marisco grill - downtown
+4c6ad6bf7c052d7f292728cf,oasis day spa
+4babce89f964a52032cb3ae3,long john silver's/a&w
+40b13b00f964a52075f31ee3,cain & abel's
+49bc22ebf964a5201a541fe3,whip in convenience store & pub
+4b45060bf964a520770126e3,nubian queen lola cajun
+49bfb66df964a5201b551fe3,thai fresh
+4415d2a9f964a52000311fe3,manuel's
+49efd0aaf964a52009691fe3,habana
+4abad0c3f964a5200b8320e3,saltgrass steakhouse
+4bec9013976ac928bd3a610b,tnt - tacos and tequila
+4ca230027f84224b234aba58,sobani
+49c3bc68f964a52072561fe3,magnolia cafe
+4b54a9daf964a520aec527e3,starbucks
+4a74a0d5f964a520ecde1fe3,evangeline cafe
+45fd161af964a52076441fe3,juan in a million
+4a1598b9f964a520a0781fe3,maudie's cafe
+4a4061edf964a5208ca41fe3,boston market
+45f19148f964a520cf431fe3,iron works bbq
+49e0ae74f964a5205e611fe3,uncle billy's brew & que
+49c134b5f964a52091551fe3,hoffbrau steak
+4adf782cf964a520e07a21e3,coco's cafe
+4c37be542c8020a1e0a38900,whataburger
+4aa06c38f964a520923f20e3,perry's steakhouse
+4bc67796db8fa593837b9c37,tres amigos
+441a9bc3f964a52037311fe3,jamba juice
+4b79f973f964a520451d2fe3,burger tex
+49e4c542f964a5203d631fe3,counter cafe
+4ab2c955f964a5205b6c20e3,california pizza kitchen
+4b840295f964a520031b31e3,which wich? superior sandwiches
+4c33ab4d7cc0c9b6cd2ef29a,subway
+49ce2fc0f964a5201d5a1fe3,irie bean coffee
+40b13b00f964a5208bf31ee3,crown & anchor pub
+4bec85f9fd60a593f4253bf1,little caesar's
+4cffeb41f1605481377c9bea,baker st. pub and grill
+45f67b5af964a52027441fe3,chez nous
+45fd1f62f964a52077441fe3,silhouette restaurant and bar
+40b13b00f964a520adf31ee3,hole in the wall
+4aac3afaf964a520075d20e3,olive garden
+4c4c7854bad7a593d48e50ad,taiwan chinese restaurant
+48135a48f964a5203b4f1fe3,hyde park bar & grill
+4e4e3277bd4101d0d7a4867d,cinnabon
+4e4e3ceabd4101d0d7a5a240,ranch 1
+4b423cd6f964a520c3cf25e3,masala wok
+4a084fb9f964a520b1731fe3,jason's deli
+412bd680f964a520b50c1fe3,tacodeli
+4bec28a3415e20a15528e7bb,sports clips
+50ba653fe4b05d62655483b4,skinny limits
+4f32127819833175d60dbed4,quiznos
+4cb5e045e262b60c46cb6ae0,hopdoddy burger bar
+4afaff80f964a520341a22e3,wally's burger express
+4b38055bf964a520634a25e3,romano's macaroni grill
+4b7de84af964a5204cd92fe3,kobe japanese steakhouse
+4af719f1f964a520d80522e3,cheddars
+4aeb28b9f964a52021bf21e3,smokey mo's bbq
+4ad7de62f964a520b40f21e3,hunan restaurant
+4a29a848f964a520ba951fe3,azul tequila
+4b891c5ff964a520551d32e3,mcdonalds
+43ef6fcdf964a5206c2f1fe3,outback steakhouse
+4f44807119836ed0019490a0,schlotzskys deli
+4a3d8555f964a52063a21fe3,uncorked tasting room & wine bar
+45e6cb42f964a52056431fe3,fujiyama
+4b8965d7f964a5205e3232e3,eastside yoga
+4b95ccb7f964a520abb334e3,snack bar
+4c23a7b0f3859c7473c56488,golden lake chinese buffet
+40b13b00f964a520d7f31ee3,player's
+49d3fa44f964a5202b5c1fe3,santa rita tex mex cantina
+4bafa54ff964a5205b133ce3,delaware subs
+4aedaea5f964a52021ce21e3,krispy kreme doughnuts
+4a082761f964a520a0731fe3,cherry creek catfish company
+4b759302f964a5204b152ee3,ihop
+45014339f964a520c0381fe3,mangia pizza
+4b1ab91cf964a5204bf023e3,brick oven on 35th
+4a5689b8f964a52059b51fe3,frank restaurant
+40b13b00f964a5205ff31ee3,aussie's volleybar & grill
+4a78ff49f964a520c9e61fe3,luby's
+4c6b17886d390f47cc160a9a,freddy's frozen custard & steakburgers
+4283ee00f964a520b8221fe3,clay pit contemporary indian cuisine
+4af0d3daf964a52087df21e3,rockin' tomato pizza company
+4e4d0e0abd413c4cc66e47d7,cici's pizza buffet
+4b6e1ca6f964a5205bab2ce3,shogun
+4b632f82f964a52002692ae3,luby's cafeteria
+4b6e2003f964a52049ac2ce3,verona ristorante
+4bb924011261d13a805fe998,dairy queen
+4b5a5b43f964a520a7bf28e3,east side king
+4b89648ef964a520e43132e3,popeyes chicken and biscuits
+4ac3ac02f964a5204f9c20e3,rudy's country store & bar-b-q
+4abeb57bf964a520848f20e3,taquerias arandas
+4b51d3e8f964a520035727e3,chick-fil-a
+4b47cdf3f964a5206b3f26e3,sprouts farmers market
+43bbd28ef964a520f12c1fe3,opal divine's penn field
+4f5902e90cd6de14f8ef550e,kerbey lane catering
+49ef8ed8f964a520cc681fe3,zax pints & plates
+4ad91382f964a520da1721e3,pizza hut
+4a062b77f964a520c6721fe3,maru japanese restaurant
+4a402fe5f964a52064a41fe3,walton's fancy and staple
+49bc636bf964a52032541fe3,threadgill's
+49ee6da4f964a5205d681fe3,quality seafood
+4b25420af964a520d46e24e3,steak 'n shake
+4bd4c16d7b1876b03ebf8986,little caesars
+49c705bdf964a52098571fe3,thanh nhi
+4ae8995bf964a520bdb021e3,patsy's cowgirl cafe
+45fbfa6df964a5206c441fe3,lambert's downtown bbq
+4c58c7def346c928512e4bca,quiznos sub
+4ab69196f964a520e37720e3,wendy's
+49bd7cc6f964a5207d541fe3,serranos cafe & cantina
+4ac0ffccf964a5205a9520e3,mcdonald's
+4aeb2f3df964a52065bf21e3,firehouse subs
+4d5438a608a7b1f7b5d53a92,plate by dzintra
+4b57dc0bf964a520224428e3,new india cuisine
+4aceefb7f964a52013d220e3,aster's ethiopian
+4c44b2cfda2176b0faf1627a,austin sonics
+43936bd5f964a520752b1fe3,mozart's coffee
+4bde13a90ee3a59399e32fb0,ronnie's real food bistro
+44c0842ef964a520aa351fe3,mandola's italian market
+49bbf0c2f964a520fd531fe3,koriente restaurant
+4a6c7241f964a5208cd01fe3,bakehouse restaurant and bar
+4b104f10f964a5208a6d23e3,simplicity wine & eats
+4373df00f964a520182a1fe3,pok-e-jo's
+4ae888f4f964a52037b021e3,einstein bros bagels
+4b0c6826f964a520a03c23e3,greenling organic delivery
+4dfb81f02271baece2435514,county line inc.
+43cddb83f964a520d42d1fe3,maria's taco xpress
+4ae5f161f964a52063a321e3,hat creek burger co.
+4b2d35bef964a5201dd124e3,sonic drive in
+43601880f964a5202b291fe3,pluckers wing bar
+4ba7ba3df964a52096ad39e3,bombay grill
+4ae3459df964a520b39221e3,baby acapulco
+4b1be606f964a520bcfe23e3,le soleil restaurant
+49c30524f964a5204f561fe3,doc's motorworks bar & grill
+4aaffddcf964a520776520e3,kneaded pleasures
+4a28a41df964a5203f951fe3,mellizoz tacos
+4e4db52ebd41b76bef91eda9,smokey bones
+4abe9359f964a520938e20e3,the texas cuban
+4a357b73f964a520099d1fe3,hai ky
+4e4e009fbd4101d0d7a00f2b,kfc
+50ca02c7245f2d4aa8c2cb58,finn & porter
+43d1d4e9f964a520072e1fe3,home slice pizza
+41478600f964a520bb1c1fe3,shady grove
+4adcbcd2f964a520402f21e3,boomerang's gourmet veggie & meat pies
+40b13b00f964a520e5f31ee3,shoal creek saloon
+4a039111f964a520c9711fe3,dart bowl
+46d3e347f964a5205b4a1fe3,opal divine's marina
+4ba2e5f0f964a5202b2138e3,china express
+4aa4503ef964a5205b4620e3,texican cafe lakeline
+4c2fb8523896e21e9378e490,popeye's chicken & biscuits
+4b16ad7ef964a520e4bb23e3,24 diner
+4b57b5bff964a5202e3d28e3,popeye's chicken
+4b6620c4f964a52042152be3,baskin-robbins
+4af325cbf964a52029eb21e3,craig o's pizza & pastaria
+49c10f42f964a5207b551fe3,maudie's too
+4bec8f63fd60a593b8373bf1,golden corral
+4ac7e4d0f964a52068ba20e3,dunkin donuts
+4821a2ccf964a5208a4f1fe3,changos taqueria - guadalupe
+4a79c075f964a5208ee71fe3,mike & mike's
+40b13b00f964a52095f31ee3,the dog & duck pub
+4a5cbc97f964a5207bbc1fe3,pho saigon
+40b13b00f964a520b1f31ee3,iron cactus downtown austin
+4ae7c2aef964a52091ad21e3,chupacabra cantina
+45f1237df964a520c5431fe3,siena ristorante toscano
+4ab192a5f964a5200c6a20e3,tarka indian kitchen
+49c4def8f964a520d2561fe3,scholz garten
+49ceb498f964a520745a1fe3,holy cacao
+4f320e8619833175d60c3340,arbys
+4a6b415af964a52044ce1fe3,burger tex ii
+43728d80f964a520122a1fe3,milto's
+4c60432213791b8d5e154faf,maggiano's little italy
+4ce354281594236a84e4f649,church's chicken
+4bb69fdc2ea19521f504ac2f,taco bell
+4b5dde80f964a520ff7029e3,cinnamons bakery
+4b06c6b9f964a5200ef022e3,panera bread
+436d4780f964a520d3291fe3,julio's
+4d0a56e982aaa093bd4dd5c2,oriental express
+49efd203f964a5200c691fe3,mulberry
+49c6f5b6f964a52092571fe3,india kitchen
+4b5a4589f964a5201bb928e3,la ventana
+4beaaa126295c9b6b0a68608,taco shack
+4a29c24af964a520d3951fe3,sunflower restaurant
+4a08678cf964a520c3731fe3,dolce vita gelato & espresso
+44170f39f964a5200c311fe3,carmelo's restaurant
+4addf36bf964a520ad6621e3,potbelly sandwich shop
+4c1ce88efcf8c9b686c5aa0b,lovely nails
+4c2fca46452620a150321e0f,hula hut cove
+4a345ba3f964a5201f9c1fe3,phara's mediterranean cuisine & christopher's casbah
+4bbfb0d22a89ef3b4161ef88,domino's pizza
+49f88b65f964a520006d1fe3,conans pizza south
+49d927d9f964a5200b5e1fe3,chinatown
+4b53d791f964a520e8ac27e3,milano pizza
+4b02a6d0f964a5203c4922e3,burger king
+4bd9c2e2d2cbc9283bc0d1ad,schlotzsky's corporate offices
+4b4cdf90f964a5208dc226e3,little mexico
+4ab42d69f964a520447020e3,texas chili parlor
+4aac3415f964a520de5c20e3,buca di beppo
+4a3c3dc9f964a5204ea11fe3,peche
+4adceea0f964a520a96221e3,hoa hoa - dobie mall
+40b13b00f964a52090f31ee3,dave & buster's
+4babfb3df964a52064db3ae3,chili's grill & bar
+4aca3beff964a520fac020e3,lotus hunan chinese restaurant
+4a1058eff964a520a7761fe3,max's wine dive
+4a91abc8f964a520421b20e3,sonic drive-in #1830
+4e4c5591bd413c4cc6689128,hooters
+4b1df1bff964a5206e1624e3,denny's
+4ba3b7ccf964a520d65738e3,hunan
+4434fed2f964a52005321fe3,genuine joe coffeehouse
+4b64bfedf964a52028cd2ae3,joe's crab shack
+4aeb72f0f964a5202cc221e3,maiko sushi lounge
+43e5cda9f964a520f92e1fe3,buffalo billiards
+4b92d944f964a5204c2134e3,sirloin stockade
+4abd6f65f964a5204c8a20e3,truluck's seafood steak & crab
+4acf9eedf964a52001d520e3,nau's enfield drug
+45f1249df964a520c8431fe3,billy's on burnet
+4b1fc446f964a520cd2824e3,extreme pita
+4c5c4098857ca593ce83c9cb,panda express
+4c9fe6cb03133704089876d5,bar chi sushi
+4c05c4838f8fa593cb6af20d,conans pizza north
+504f5ad9e4b08d4fcc241f91,stubbs hq
+4b64899cf964a520d0bb2ae3,arby's
+4a37ce4df964a520749e1fe3,zen
+4a9d8a52f964a520713820e3,mcalister's deli
+4a650090f964a5202bc71fe3,salvation pizza
+4b575094f964a520d43028e3,texican cafe manchaca
+4e4cfae9bd413c4cc66db843,taqueria vallarta jalisco
+4ce31945b7a3b1f7984b2e8d,soleil
+4b25904af964a520db7324e3,culver's
+4b6f00d4f964a52014d62ce3,pluckers corporate office
+49bef66ef964a520fb541fe3,tomunchi frozen yogurt
+437e6b00f964a520c02a1fe3,enchiladas y mas
+441a7dc3f964a52035311fe3,mongolian grille
+4f32575319836c91c7ce32dc,papa johns pizza
+49bdb4c2f964a52090541fe3,southside flying pizza
+4be443ae910020a1f371d114,busters bbq
+49bd4b04f964a52063541fe3,hoboken pie
+4e4e4974bd4101d0d7a6e253,rallyround bakehouse
+4aff0edaf964a5209d3322e3,tokyo steakhouse
+4a1344e5f964a520cd771fe3,rounders pizzeria
+40b13b00f964a52098f31ee3,doubledave's pizzaworks
+43ec2481f964a5203e2f1fe3,green mesquite bbq
+4a9dc05af964a520413920e3,five guys
+4a259766f964a5206f7e1fe3,freebirds world burrito
+4a886900f964a5204b0620e3,carl's jr.
+4a99bd43f964a520313020e3,cabo bob's
+4b9d6d35f964a520ebab36e3,gloria's mexican restaurant
+4f510b42e4b02b3bcadb7613,trace
+4584000af964a5208d3f1fe3,bikinis sports bar & grill
+45e6cbf0f964a52058431fe3,ruby's bbq
+4af7516ef964a5204d0822e3,taco cabana
+4b2af346f964a520b9b224e3,buffalo wild wings
+4b96dbf9f964a52059e934e3,quiznos sandwich restaurants
+44e833b4f964a52096371fe3,jamba juice westlake
+4c42206f520fa5933dbecaac,golden palace
+44c38e6df964a520c9351fe3,wahoo's fish taco
+49d422baf964a520345c1fe3,andiamo ristorante italiano
+4ba18124f964a52085bc37e3,cafe serranos
+4a5684e3f964a52051b51fe3,east side showroom
+4b47cd87f964a5205a3f26e3,saccones pizza and subs
+44a59b4cf964a520f0341fe3,pho hoang
+4a980d8df964a5203f2a20e3,golden wok
+4a76236ef964a5205fe21fe3,cracker barrel old country store
+4bd1a1c341b9ef3bfe38fce5,cici's pizza
+462a43ddf964a520d5451fe3,juiceland
+4b942ea3f964a5203d6d34e3,taquerias los jalisciences
+49cd4e37f964a520db591fe3,mighty fine burgers
+4a7b1702f964a520fce91fe3,souper salad
+4513f1adf964a520c9391fe3,bombay bistro north
+4c06cf32cf8c76b01b153b65,how do you roll?
+4bb287c842959c746cfa202c,pizza patron
+43504680f964a520b5281fe3,sherlock's baker street pub
+4a1dc904f964a520957b1fe3,madam mam's
+4a633f72f964a5209fc41fe3,upper crust bakery
+4bcf91fd462cb7139206d707,golden nails
+4a2ea0d3f964a52026981fe3,zocalo cafe
+4f32058419833175d60a8171,dominos pizza
+40ec8e80f964a5202b0a1fe3,magnolia cafe south
+4c0d9fda336220a10116cb77,golden chick
+4b886e6af964a5204ff731e3,buffalo wings & rings
+460d9079f964a5200c451fe3,tomodachi sushi
+4b214ac9f964a520ab3924e3,ryu of japan
+40b3de00f964a5200f001fe3,spider house patio bar & cafe
+4b467cfdf964a520722226e3,indian palace
+4b3e8edef964a520e69e25e3,cracker barrel old country store
+4cb4891eef1b3704c7975900,torchy's tacos
+4b3ba1eff964a520867725e3,jack in the box
+43da642af964a5207b2e1fe3,pei wei asian diner
+4b2fbb9cf964a520c2ee24e3,schlotzsky's
+42ec1480f964a5209f261fe3,roaring fork
+4e84b251b803a26925a16cce,murphy's deli
+4a91dcb0f964a520291c20e3,jamba juice
+4a3d3bbaf964a520fba11fe3,burger tex
+4f320ca619833175d60b7557,quiznos
+4adb3450f964a520e02421e3,krispy kreme doughnuts
+4bb690ba1344b713cfbd9d04,luby's
+4b916f34f964a5203abc33e3,dairy queen
+4acfbbf0f964a5209ad520e3,chick-fil-a
+4b295615f964a5201c9d24e3,mcdonald's
+4b79c8c7f964a520d9112fe3,hooters
+4b3f69a9f964a52084a625e3,einstein bros bagels
+49fdc221f964a520286f1fe3,pluckers wing bar
+4e4e0088bd4101d0d7a00c32,kfc
+4c5b1f3ef346c92829be50ca,baskin-robbins
+4bd7b9c40b779c747ae005a0,taco bell
+4b3e566ff964a520809b25e3,panera bread
+45f29bb2f964a520e0431fe3,taco shack
+4a708125f964a5209dd71fe3,austin's pizza
+4bf7344f5ec320a152aa86d3,domino's pizza
+4b36a06cf964a5206f3925e3,chinatown
+4ba7c5ddf964a52006b239e3,burger king
+4bbcb99c07809521eda6d991,chili's grill & bar
+4b5b61d5f964a5207ef928e3,denny's
+4b1d9fcdf964a520391324e3,panda express
+4e4df646bd4101d0d79f2b7d,arby's
+4a2eec63f964a52084981fe3,culver's
+4b61ccd9f964a520aa232ae3,mongolian grille
+49fc6c27f964a520a06e1fe3,freebirds world burrito
+4af750daf964a520450822e3,taco cabana
+4bc4f081702076b0fa4004c9,cici's pizza

@@ -1,0 +1,201 @@
+4d811070577eb1f79e4db4d3,steve's
+40b28c80f964a5200bf81ee3,fire + ice boston
+49cf65d9f964a520a75a1fe3,harvest
+4db21e09a86e2ae9ef6d02cd,scholars boston bistro
+49ce832ef964a5204f5a1fe3,crema cafe
+4e4c3ac3bd413c4cc667d1d9,restaurant l
+4a9c89e5f964a5207f3720e3,cosi
+4c5e04b56147be9aa0e59309,tasty foods
+4a763b7cf964a520aae21fe3,dunkin donuts
+40b28c80f964a52090f71ee3,bell in hand tavern
+4ab8fd1ff964a5208c7d20e3,hong kong eatery
+4a766e25f964a52004e31fe3,conrad's restaurant
+4ae083dff964a520d57f21e3,legal sea foods-copley place
+4ae5d2a8f964a5204ea221e3,newtowne variety
+4e4e549bbd4101d0d7a7df4d,stix restaurant & lounge
+42e03700f964a52062261fe3,sidney's grille
+4b04d86cf964a520c55622e3,feng shui
+4bec356062c0c928a30fe3d4,primavera restaurant
+4b788bd9f964a520dad52ee3,kendall hotel
+40b28c80f964a520e2f71ee3,foster's bar
+4f8ff3bca17ccfdfcb21326f,glory blooms
+4ca66762b0b8236ac4fa9ee6,ninety nine restaurant
+40b28c80f964a52093f71ee3,the hub pub
+4b5c860ff964a520513429e3,montrose spa
+4bba63ac98c7ef3bd90b3302,piccolo nido
+4c9252ae104a9521d1aaf2a9,b.good
+4b29515ef964a520d39c24e3,best of boston
+4a6e4e7df964a52075d41fe3,nine zero hotel
+4af88bfff964a520310e22e3,ninety nine restaurant
+4a553fccf964a520edb31fe3,biagio ristorante and bar
+4b785c20f964a52045c82ee3,bugaboo creek steakhouse - braintree
+4b4964c2f964a520f86e26e3,west end johnnie's
+4b2ff0a3f964a520fbf224e3,grumpy white's
+4abe367cf964a520fd8b20e3,charlie's sandwich shoppe
+4ae0f451f964a520018421e3,caffe vittoria
+4d54629dc6edf04dd6fdb8a2,shanghai express
+4e4c36c4bd413c4cc667c2a1,pressed sandwiches
+4abf9255f964a520219120e3,panera bread
+4e4c3543bd413c4cc667b8b9,grass roots deli
+43388b80f964a52031281fe3,toscanini's
+4b64c031f964a52041cd2ae3,spud's restaurant
+4b6738f3f964a5203b422be3,sunny nails
+40b28c80f964a52060f81ee3,dali
+4d12b388d1848cfa4f39be71,breezeway
+4a4e88f1f964a5209cae1fe3,tastings wine bar & bistro
+4a7a2fa4f964a520cbe81fe3,fowler house
+4440aecaf964a5203e321fe3,zoe's kitchen
+4aeda98df964a52008ce21e3,anthony's cafe on the waterfront
+4283ee00f964a520f3221fe3,pavement coffeehouse
+4c052ff20d0e0f475bf0049a,o! deli
+4b1ed972f964a5207d2024e3,tryst restaurant
+4d270dbc888af04dc687b8af,panera bread
+4bb2515f2397b71314da36b3,dunkin donuts
+4e2f1e38b3ad01b932b273e2,blossom floral design
+4e4c354bbd413c4cc667b8e1,greenhouse cafe
+4a56dc19f964a520d5b51fe3,odyssey cruises
+4af4e050f964a5202af721e3,pearl villa restaurant
+4d2207b6e56f6ea83a03821d,best cafe
+45f289e7f964a520dc431fe3,globe bar & cafe
+4d8cc1941716a143144b07f7,max brenner
+4b525b6ff964a520137927e3,dick's last resort
+4c928df81221b1f7238912e2,odyssey grill
+4b783e60f964a5201abf2ee3,alfredos
+49d2a010f964a520c35b1fe3,sugar bowl
+4ad73b99f964a520110921e3,finagle a bagel
+40b28c80f964a520a7f71ee3,green dragon tavern
+4f320e5919833175d60c21bb,acropolis
+3fd66200f964a52083ec1ee3,golden palace restaurant
+4a9abfdff964a520773220e3,uburger
+4a833e74f964a5207dfa1fe3,burger king
+4dd70ddc1838b8561cddaad3,francesca's
+4b52780bf964a520c27e27e3,paddy's lunch
+4bf53082d2fbef3b3de5a4c5,d'angelo grilled sandwiches
+4a43fbb9f964a52000a71fe3,the corrib pub and restaurant
+3fd66200f964a520f6eb1ee3,atlantic fish company
+40b28c80f964a5203df81ee3,shays pub & wine bar
+40b28c80f964a5204df81ee3,miracle of science bar & grill
+4aaa8c7af964a5205c5620e3,strip-t's restaurant
+4ae4dabaf964a520d99e21e3,fleming's prime steakhouse & wine bar
+4b1b1d5af964a52046f823e3,california pizza kitchen
+3fd66200f964a520b7eb1ee3,cityside restaurant & bar
+40b28c80f964a52082f81ee3,jillian's boston
+4c268fa43703d13a64a6a536,generations banquet hall & catering
+49d78b2df964a520305d1fe3,kitty o'shea's
+40b28c80f964a520faf71ee3,woody's grill & tap
+4d0a4c60454c6dcb94ff3d8e,riverbend bar & grill @ the marriott
+4a6754a3f964a5202fc91fe3,thai dish
+3fd66200f964a52045ec1ee3,parish cafe & bar
+4a820424f964a52051f81fe3,metropolis cafe
+4b3abf65f964a520cf6d25e3,krayzee horse pub & grill
+4e4c351dbd413c4cc667b7cd,firefly american bistro
+4c508b41bd099521c3d9515e,barracuda tavern
+4be1b3658dd062b5c27c3e3c,oasis guest house bed and breakfast boston
+4bedf568e24d20a152507214,the chantey
+4e4c39d4bd413c4cc667cb6f,three cheers
+40b28c80f964a52037f81ee3,house of blues
+40b28c80f964a520f5f71ee3,pavement coffeehouse
+4a4b7a9df964a52068ac1fe3,beacon hill bistro
+4abee4abf964a520769020e3,rumba rum & champagne bar
+4a7654cbf964a520d8e21fe3,legal sea foods-long wharf
+4aa19c69f964a520394120e3,taranta
+4ba27f9ef964a52095fe37e3,dellaria salon
+41478600f964a520bd1c1fe3,bull and finch pub (cheers beacon hill)
+4e4e477bbd4101d0d7a6b37e,phil's galley grille
+4a5e45f9f964a52048be1fe3,mexicali burrito company
+42869100f964a5201e231fe3,legal sea foods-kendall square
+4aea2424f964a520b3b921e3,wings over somerville
+4b9d4c84f964a52075a136e3,carmaleno's pushcart
+4c3fa3ece26920a155c85be7,stats
+436d4780f964a520bc291fe3,mcfadden's
+43a6b9a9f964a520602c1fe3,devlin's restaurant
+4bab8e2cf964a5203ab33ae3,backworks
+4b903731f964a520cd7c33e3,joe tecce's
+52544f952fc6cbe16a6453bf,legal sea foods-prudential center
+3fd66200f964a52042ec1ee3,panificio bistro & bakery
+4f323b0519836c91c7c30776,pressed sandwiches
+4c8f86a3d68c6dcb12fd04a2,cafe apropos
+40b28c80f964a5206bf81ee3,redbones barbecue
+4c090694a1b32d7f34e596f0,haywards restaurant
+4524ee70f964a520ed3a1fe3,anthem
+4b28016ff964a520918d24e3,bickford's grille
+4f467fc1e4b068bc663e155a,yard house
+40b28c80f964a52034f81ee3,grafton street pub
+4c23999d905a0f474b625e60,burger king
+4f325c7b19836c91c7d03813,ninety nine restaurant and pub
+4cb0803f75ebb60c71ecc4ad,waxy o'connor's
+4b5dd220f964a520a46d29e3,lingo bar & cafe
+4aeb73c0f964a52031c221e3,feng shui
+4e4e2d67bd4101d0d7a4031c,bickford's family restaurant
+4bc4d81cb492d13ad8a6aa60,spinellis
+4b99c36cf964a520b59035e3,dunkin donuts
+4150c080f964a520091d1fe3,trident booksellers & cafe
+4f0c3cdae4b031b28736ab14,finagle a bagle inside
+4ad7bbc6f964a5203b0e21e3,andy's diner
+41e46880f964a520d31e1fe3,stadium sports bar & grill
+3fd66200f964a520ddeb1ee3,stockyard food & spirit
+4b50aad0f964a520702c27e3,burger king
+4ab5161af964a5205d7220e3,legal sea foods - logan airport terminal b
+4b50fb2bf964a520c53b27e3,ninety nine restaurant
+4fa1f01ae4b01ab96a700baf,extreme dancesport
+4dddbcfbd22d28453eb172c5,raso's
+4ada7bcef964a520f32221e3,shoppers cafe
+4d09935ee023224b39cc5bd2,deluxe station diner
+40b28c80f964a5205af81ee3,the elephant walk
+40b28c80f964a52021f81ee3,ironside grille
+4e4c3527bd413c4cc667b80b,forest cafe
+4adf469cf964a520007921e3,deli 1 one
+4ad75a5ef964a520be0921e3,al capone's
+4a32e2e8f964a520b69a1fe3,b.good
+43f70aabf964a520b62f1fe3,moogy's sandwich shop
+3fd66200f964a5202eec1ee3,jacob wirth
+4a2dc382f964a520ee971fe3,alfredo's
+4e4e5ed1bd4101d0d7a8a956,avenue c
+4b36ca7cf964a520873c25e3,erbaluce
+4b97f02ff964a520cb2035e3,taste of the town
+4a22170ef964a5205f7d1fe3,johnnie's pizza & brick smokehouse
+4b363ceef964a5206a3125e3,bugaboo creek steakhouse - methuen
+4a68efaef964a5204dcb1fe3,j.a. stats bar
+4e4e368cbd4101d0d7a4f39c,canton eatery
+4d1cd55fddc85481f994cb60,uburger
+4db1c7ca6e81a2637ef39ad3,sluggers
+40b28c80f964a520c9f71ee3,good life
+4aec58d2f964a52035c621e3,thornton's restaurant & cafe
+4e4c3ac5bd413c4cc667d1ed,sebastians novel & map room cafe
+4a72f2cff964a5205adb1fe3,busy bee restaurant
+4ca39289d7c33704551da262,christy's place
+4cc078bc985aa35d24224d12,marco polo restaurant
+4a7edacef964a52035f21fe3,s&s restaurant
+4ad7af43f964a520a60d21e3,the elephant walk
+4d06e29cc2e53704405cc667,the midway
+4a9d11fff964a520d53720e3,eastern standard
+4e4c35b1bd413c4cc667bb55,joseph's on high
+4a3cf8bcf964a520b6a11fe3,mike & patty's
+3fd66200f964a52011ec1ee3,champions
+4b54b8fcf964a520fac827e3,emmet's irish pub
+4acf6087f964a5204bd320e3,vicki lee's
+4a3408e3f964a5209a9b1fe3,rock bottom restaurant and brewery
+4c5eb6657735c9b6c67a9272,omelette headquarters
+4e4e36b9bd4101d0d7a4f862,spud's restaurant and pub
+4e4c365bbd413c4cc667c007,news ultra lounge
+40b28c80f964a5207bf81ee3,cask 'n flagon
+4a7aeda3f964a520a1e91fe3,boston common coffee company
+4bce3a5ab6c49c744cd79691,dellaria salon
+3fd66200f964a5200dec1ee3,california pizza kitchen
+4238c880f964a5202c201fe3,dillon's
+4ee2e19cd3e34ebcee5d7b8d,thornton's fenway grille
+40b28c80f964a5203cf81ee3,rialto
+40b28c80f964a520a1f71ee3,clarke's turn of the century
+4b4fa811f964a520740f27e3,ninety nine restaurant
+4dd177b8d164679b8d479c91,area four
+4bd1e7d7046076b098c57271,hard rock cafe boston
+45a3a409f964a520f0401fe3,vintage lounge
+4a71c5d2f964a52080d91fe3,metro cafe
+4b993e31f964a520ef6c35e3,tatiana's restaurant & bar
+4aca5d7cf964a520a2c120e3,side bar food & spirits
+4ad63d86f964a520f60521e3,bella vista
+4ae8ce3af964a52071b221e3,technique
+4b2173ebf964a520113c24e3,gamestop
+4ad73a38f964a5200b0921e3,finagle a bagel (copley square)
+4abe5f07f964a520098d20e3,ninety nine restaurant
+4b9192a6f964a520a9c633e3,grain & salt

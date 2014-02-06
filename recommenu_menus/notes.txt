@@ -1,0 +1,7 @@
+I have ratings, but since there are multiple locations the ratins have different id's
+- so I need to get each chickfil, then match items of each and have those ranked
+
+- need to make a list of restaurants that have fsid with menus, then need to go and get those ratings from yelp
+	- to make sure that I have ratings for every 'chickfila'
+
+- going to need to see if 'chickfila' has one working menu - if not put on list of 'nonexistant menus'

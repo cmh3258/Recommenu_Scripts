@@ -1,0 +1,150 @@
+4ca3e4bc750ca093400e1d67,Bout Damn Time,n
+
+51f2b2c1498e2e08fe60c341,Burgerfi,n
+
+4f44bfd619836ed001963f61,U R Cooks Steak House,n
+
+4f43ec6de4b058e77d24d74c,Bout Time II,n
+
+4f3c4f62e4b0fc2b1eb78252,Olive & June,n
+
+4f4cfaf7e4b04c96fa0e1259,Steakhouse Steaks,n
+
+527b03e7498e2da8d5847f47,dominos pizza south lamar,n
+
+4e10c61152b1655efa404f4d,Little Miami,n
+
+4e57338a62e12dc097f430b9,Longhorn Smoke Out,n
+
+4c01748ef7ab0f47432716b6,Sheraton Landmark Restaurant,n
+
+4d84395802eb548194d82af5,White Buffalo Bed & Breakfast,n
+
+4c38a712dfb0e21e6fefaea8,The Westin Austin at The Domain,n
+
+51548cdde4b0389a0a0bb1c8,Wunder Waffle,n
+
+4f322f6419836c91c7be8252,Lone Star Steakhouse,n
+
+4aaba184f964a520ae5920e3,Juanita's Tacos,n
+
+4d27da3a342d6dcb8e54f2ca,House of Olives,n
+
+4f32964d19836c91c7e6565d,Pizza to Go,n
+
+4d804845ab666ea80f0403c1,El Diablo Tacos,n
+
+4c0d4d742466a593a25f7721,Tacos La Guera,n
+
+4be8ad37947820a1273fb5db,Charlie's Steak House,n
+
+4f4332dc19834bc91f5548b8,Boba Express,n
+
+4ed4474161af8b867c8c6898,Arie's Steak House,n
+
+4baaa5d1f964a5208f7c3ae3,Texas Hill Country Olive Company,n
+
+50be8873e4b04458fee15ea7,Longhorn Fried Rice,n
+
+4f3254c119836c91c7cd34dc,Longhorn Fried Rice,n
+
+4d7bd2e87498a1cdc1e271fc,Circle Brewing Company,n
+
+4b560520f964a52051fc27e3,Little Sub Trailer,n
+
+4b9bbc99f964a520691f36e3,One Taco,n
+
+4f4d4a7de4b0629e7a5419ea,Your Mom's Burger Bar,n
+
+4d8fd81fcb9b224b955fa441,Papasitos,n
+
+4d424fa55d01224b02d05e50,Carl's Jr,n
+
+4ccf5d5048b837048f94ebde,Nana & Papa's,n
+
+4e9480fa0aaf7d225b4d8cf6,Qdoba Mexican Grill,n
+
+4f8c57f1e4b0c71a74793839,Qdoba Mexican Grill,n
+
+4c54fa04f5f3d13abadffbfa,Popeyes,n
+
+52a9f43511d207da36737b51,Popeyes,n
+
+4c4cca6b74e81b8d025dc706,Popeyes,n
+
+518ebb58498e9443a1af098a,Popeyes,n
+
+50df7af9e4b08361c09bf07b,Cicis Pizza,n
+
+4f3280a219836c91c7de1551,Old San Francisco Steak House,n
+
+51ffe2f0498e736c8c076cb7,Dunkin Donuts/Baskin Robbins,n
+
+4f32a9ae19836c91c7ed9bba,Z Pizza,n
+
+4f3222a919836c91c7b9964b,Culvers,n
+
+4c8d671855fba093bb1968ab,McDonald Grill,n
+
+4c8d671855fba093bb1968ab,McDonald Grill,n
+
+4c8d671855fba093bb1968ab,McDonald Grill,n
+
+4d975af5af3d236af85a21c7,Elevation Burger,n
+
+4a2d508af964a520a1971fe3,Elevation Burger,n
+
+4e20ef4bb0fbdf9ba7a5315c,Panda 2 Go,n
+
+4f32a49719836c91c7ebb1b6,Taco's To Go Holiday House,n
+
+52aa5f0c498ee0869dacde7a,happy times eatery,n
+
+4f3237a119836c91c7c1b1e3,Whataburger Unit 947,n
+
+4d6a981a2acd6ea831fe47c0,House Of Panda,n
+
+51564460e4b0c35fc3d921bf,Waffles Wings And What,n
+
+517ff89d498ef05f74d146ad,w b chicken & waffles,n
+
+4f2572b0e4b067a327d0e0b6,Jack's Tavern,n
+
+4fe79b0de4b01174296b0286,Taco More,n
+
+51735479e4b0eb20e18a75d4,Lobby Bar at Holiday Inn - Midtown,n
+
+4f72897ce4b0adf5ab98e58c,Art of Tacos,n
+
+5184a8c3498e5f56f41bbe52,Famous Beer Crust Pizza,n
+
+4f0279534690f6ececbb27d6,Bomb Tacos,n
+
+4f32582719836c91c7ce84ba,Pretzel Time,n
+
+50e91274e4b0d1b6cd308703,taco la canpechana,n
+
+4ff3299ce4b021ccc5eb7f72,Bob's Steak And Chop House,n
+
+44116993f964a520ca301fe3,TGI Fridays,n
+
+4b3bf963f964a5208d7f25e3,TGI Fridays,n
+
+509d636c5d2463e871547efc,TGI Fridays,n
+
+4d12624d0ad2f04d9fe5ab54,Costco Food Court,n
+
+4e60faeea80951b317daba66,Costco Food Court,n
+
+4f5e930de4b0b2ac4312ed08,The Bistro @ Marriott Courtyard Austin South,n
+
+4f3279f219836c91c7db8910,Ryan's Family Steak House,n
+
+4b7c7ae5f964a52002962fe3,Burger Stadium,n
+
+4f396298e4b0beedd4077387,Wholly Cow Burgers,n
+
+4d535366cf8b2c0f03fd9770,Wholly Cow Burgers,n
+
+4ca3e4bc750ca093400e1d67,Bout Damn Time,n
+

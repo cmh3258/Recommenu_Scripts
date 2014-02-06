@@ -1,0 +1,86 @@
+4e4c53a1bd413c4cc6688484,hooters
+4b69fc0ff964a520c1bf2be3,outback steakhouse
+4b0345a0f964a520274e22e3,popeye's
+4e4e44cdbd4101d0d7a66c6c,baskin-robbins
+4b7f3181f964a5200d1e30e3,taco bell
+4e4dff9abd4101d0d79feda6,kfc - kentucky fried chicken
+4ba156c2f964a52024ae37e3,panera bread
+4bd07baa41b9ef3b1d24fae5,chipotle mexican grill
+4b7ebeb8f964a52075fc2fe3,dunkin donuts
+4afb5763f964a5201e1d22e3,qdoba mexican grill
+4d6d8baf21acf04d836b513a,kfc
+4b787e29f964a5200ed22ee3,ihop
+4b6cb6d3f964a520714e2ce3,chick-fil-a
+4c2544e3f7ced13a0354246d,kfc/taco bell
+4a97b966f964a520b62920e3,dunkin' donuts
+4bfd9bcb4cf820a180b8ecf4,subway
+4a367231f964a5208a9d1fe3,starbucks
+47614d0ef964a520e04c1fe3,outback steakhouse
+4e4e44cebd4101d0d7a66c98,baskin-robbins
+51b79ea587f3678581319666,kfc
+4b76fc7ef964a5209f712ee3,chick-fil-a
+4bd0e158b221c9b650a8d4d0,subway
+4af5fc1bf964a520ceff21e3,outback steakhouse
+4e4e44cebd4101d0d7a66c82,baskin-robbins
+4dcd643945ddbe15f86e5231,kfc
+4b6b5c58f964a5206f032ce3,subway
+4b19aa4ff964a52084e123e3,outback steakhouse
+4e4e44ccbd4101d0d7a66c4b,baskin-robbins
+4e4dffa0bd4101d0d79fee78,kfc
+4bb6925df562ef3b34683097,ihop
+4b5f93abf964a52095c229e3,hooters
+4d015d2a9fada35dc8b43c34,subway
+4ba5422ef964a520c3f238e3,outback steakhouse
+4bd0afef462cb71323e0d807,baskin-robbins
+4f4467e419836ed00193e31a,kfc
+4e4dec3dbd41b76bef956626,subway
+4b411f26f964a52081c125e3,outback steakhouse
+4f32379419836c91c7c1acf3,baskin-robbins
+4bc63effdb8fa59356069c37,kfc
+4e4dec24bd41b76bef95649f,subway
+4f32671d19836c91c7d4581b,outback steakhouse
+4cfea95462a38cfab7d95932,baskin-robbins
+515c82ccf0e4172442779d2d,kfc
+4c55b99272cf0f47c584bbd6,subway
+4f32250519836c91c7ba877a,outback steakhouse
+4e4e44cdbd4101d0d7a66c56,baskin-robbins
+4b97d7d5f964a5207e1935e3,subway
+3fd66200f964a520beed1ee3,baskin-robbins
+4bbbacd4e436ef3bcba65564,subway
+4ad3da79f964a520a0e620e3,chipotle mexican grill
+4a36e360f964a520f79d1fe3,taco bell
+4a79e829f964a520f5e71fe3,panera bread
+4b0de0edf964a520ef5123e3,qdoba mexican grill
+4e4dff95bd4101d0d79fed10,kfc
+4b1bfb15f964a520050024e3,ihop
+4e4debebbd41b76bef956120,subway
+4aa84203f964a520735020e3,starbucks
+4a9e9761f964a5208c3a20e3,chipotle mexican grill
+4b6316f1f964a5202c622ae3,panera bread
+4a8729eaf964a520fb0220e3,qdoba mexican grill
+4b1a9bc5f964a52052ed23e3,starbucks
+4e4dac9fbd41b76bef9175ab,ihop
+4ab540c5f964a5208e7320e3,subway
+4e4dff9ebd4101d0d79fee27,kfc
+4b3e77b8f964a5209e9d25e3,panera bread
+4cf92c1ade096dcb76078d79,subway
+4b1edf36f964a520d72024e3,kfc
+4b7166b4f964a520b7442de3,ihop
+4a3be064f964a520dba01fe3,starbucks
+4a5ba61ff964a52097bb1fe3,panera bread
+4b6da98ff964a5203a842ce3,subway
+4c5f1791b6f3be9ad34c5c73,kfc
+4f322f6419836c91c7be82a3,ihop
+4a37f512f964a5209b9e1fe3,starbucks
+4bcb0fc5b6c49c74596a9191,panera bread
+4c37a79d1e06d13ab65b763e,kfc
+4e4dec17bd41b76bef9563c7,subway
+4b117232f964a520ba7c23e3,starbucks
+4ac0e8f1f964a520f49420e3,panera bread
+4f32972219836c91c7e6a5d2,kfc
+4c1aa381b9f876b09cfc7846,subway
+42829c80f964a5205d221fe3,starbucks
+4a6f48f3f964a520cbd51fe3,panera bread
+4f32179d19836c91c7b501f5,kfc
+4c34bbad66e40f47d807ca8b,subway
+42829c80f964a5205e221fe3,starbucks

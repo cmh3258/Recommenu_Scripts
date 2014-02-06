@@ -1,0 +1,364 @@
+4bf1704f25afb713e7044b6f,Subway
+51420b09e4b0e8b13be61a39,SUBWAY
+4b058a1bf964a52000df22e3,SUBWAY
+50b3b7cee4b03641ded70a8e,SUBWAY
+4b4f415af964a520e8fe26e3,Subway
+4bd85718e914a593f2f152fa,SUBWAY
+4ddfc866185035f3a44eeae3,Subway
+4b082bccf964a520650523e3,SUBWAY
+4c1d27a663750f4731c7b767,SUBWAY
+4be54e312468c928fadbff42,SUBWAY
+4e4debd4bd41b76bef955fdb,SUBWAY
+4c34bbad66e40f47d807ca8b,SUBWAY
+50cdc388e4b0ce62b2f4db48,SUBWAY
+4f44106019836ed0019219e6,SUBWAY
+4c1aa381b9f876b09cfc7846,SUBWAY
+502fd467e4b05f26afbe8dc7,SUBWAY
+4e4328dc18a8f95aaf50628e,SUBWAY
+4e2231a4628469a5741e6758,SUBWAY
+521bca2011d2624bbfe19a0c,SUBWAY
+509ee820e4b0ca91fb514a5b,SUBWAY
+4e4dec17bd41b76bef9563c7,SUBWAY
+4b6da98ff964a5203a842ce3,SUBWAY
+4cf92c1ade096dcb76078d79,Subway
+4ed3bd22e5faa5ec06accea2,SUBWAY
+4e618438fa76cd64cdd89114,SUBWAY
+514ce30ee4b043eb7a52771e,SUBWAY
+4ed92f6d9911a3e78bb8cc25,SUBWAY
+4e1f818bd22d0a3f59e45461,SUBWAY
+50e46ed8e4b08361e04aed30,SUBWAY
+4ab540c5f964a5208e7320e3,SUBWAY
+52ced52d498e5045857c314e,Subway
+4fda7106e4b05ff8b83353bb,SUBWAY
+4e4debebbd41b76bef956120,SUBWAY
+4bbbacd4e436ef3bcba65564,SUBWAY
+4f9adaefe4b0873b6650b672,SUBWAY
+4b97d7d5f964a5207e1935e3,SUBWAY
+515d7aaee4b07830f16cf674,SUBWAY
+4c55b99272cf0f47c584bbd6,SUBWAY
+4beddce14daaa593a45b8f61,SUBWAY
+4e4dec24bd41b76bef95649f,Subway
+4e1f86bab0fbdf9ba79665cd,SUBWAY
+4e4dec3dbd41b76bef956626,SUBWAY
+4d015d2a9fada35dc8b43c34,SUBWAY
+4b6b5c58f964a5206f032ce3,Subway
+4fc263f3e4b07e3cd9d7f512,SUBWAY
+4bd0e158b221c9b650a8d4d0,SUBWAY
+4bf42c6698ac0f47dbae63a8,Subway
+4f92bbdee4b03828fd39e268,SUBWAY
+4bfd9bcb4cf820a180b8ecf4,SUBWAY
+50d5ff65e4b0ca30371b60f1,SUBWAY
+4a515142f964a520ebb01fe3,Starbucks
+4abe640bf964a5202d8d20e3,Starbucks
+4a670b35f964a520e1c81fe3,Starbucks
+4adb3bd7f964a5201c2521e3,Starbucks
+4ad8f8c9f964a520971621e3,Starbucks
+4a95943cf964a520c12320e3,Starbucks
+52869069498e3289da674d4d,Starbucks
+4af2cbfaf964a5208ae821e3,Starbucks
+52869069498e3289da674d2f,Starbucks
+4a282aaef964a520fb941fe3,Starbucks
+4a9edff8f964a520963b20e3,Starbucks
+42829c80f964a5205e221fe3,Starbucks
+42829c80f964a5205d221fe3,Starbucks
+52869069498e3289da674e16,Starbucks
+4b117232f964a520ba7c23e3,Starbucks
+49bd4ba4f964a52064541fe3,Starbucks
+4a37f512f964a5209b9e1fe3,Starbucks
+4a3be064f964a520dba01fe3,Starbucks
+4b22b59ff964a5203d4c24e3,Starbucks
+52a62cd3498e6dbcece60888,Starbucks
+49d0e61bf964a5203e5b1fe3,Starbucks
+52055c7411d29b25b2bcb692,Starbucks
+51c4b09e498e0ac94b74edf0,Starbucks
+4b83deb9f964a520771431e3,Starbucks
+4b1a9bc5f964a52052ed23e3,Starbucks
+52869068498e3289da674165,Starbucks
+51890b25498e053c30070349,Starbucks
+52869068498e3289da674162,Starbucks
+4aa84203f964a520735020e3,Starbucks
+50e82d4be4b0b57b8d4729f0,Starbucks
+52955fae11d2eb88a11b178f,Starbucks
+4fe34c9de4b0179c631a077d,Starbucks
+508a7e48e4b0661bf3c19430,Starbucks
+4f6e01dbe4b0e20e1540c7a1,Starbucks
+528522da498ecf00f9f8bd89,Starbucks
+50352955e4b0aa0a3ca84eb6,Starbucks
+4e0c813b18a89ad0106a63a6,Starbucks
+5286906b498e3289da67817c,Starbucks
+52398b6c11d20bef4dea42d9,Starbucks
+5015ba47e4b0e28d99ebc61b,Starbucks
+5286906b498e3289da677bd2,Starbucks
+50476aa7e4b0aeb3440cad38,Starbucks
+5286906a498e3289da677266,Starbucks
+4a367231f964a5208a9d1fe3,Starbucks
+4f0b39f1e4b0671f2a7059e4,Starbucks
+509a710ce4b00dfcbb5826a4,Starbucks
+4c30a0aced37a5936a1a6903,Starbucks
+4c1571cc7f7f2d7f368ce268,Starbucks
+4f523ec5e4b002a74207ce37,Starbucks
+5104370be4b0280b07147c40,Starbucks
+4bee0353a40fc92852ed820c,KFC
+4f32ae8819836c91c7ef6980,KFC - ATM
+4bf1942a189f0f47f26db762,KFC
+4e4dff96bd4101d0d79fed1b,KFC
+4b4f7529f964a520740727e3,KFC
+4f329eb319836c91c7e97729,KFC
+4e4dff9abd4101d0d79feda6,KFC - Kentucky Fried Chicken
+4f320f2a19833175d60c74b1,KFC
+4f329f2019836c91c7e9a123,KFC
+4d864ed750913704033fa95b,KFC
+4cc47467914137047cf3c255,KFC's Bungalow
+4e4dff96bd4101d0d79fed26,KFC
+4c2544e3f7ced13a0354246d,KFC/Taco Bell
+4bf9732b8f32ef3b7cb304aa,KFC
+4ba3b1f1f964a520595538e3,KFC
+4ad36a7df964a52042e420e3,KFC
+4d3e150c05b8721e27c39a37,Taco Bell
+4f3279e819836c91c7db85a7,KFC
+4bc89b1692b376b0a1c0513a,KFC
+4a46a49cf964a52037a91fe3,KFC
+4fdec2bde4b0598b218d69f4,KFC Head Office
+4bf33e7d354e9c741a912602,KFC
+4f32179d19836c91c7b501f5,KFC
+4f32972219836c91c7e6a5d2,KFC
+4c37a79d1e06d13ab65b763e,KFC
+4c5f1791b6f3be9ad34c5c73,KFC
+4f328c1819836c91c7e274dd,KFC
+4b1edf36f964a520d72024e3,KFC
+4e4dff9ebd4101d0d79fee27,KFC
+4e4dff95bd4101d0d79fed10,KFC
+4f32497f19836c91c7c8cf43,KFC A and W
+4bbd03e6078095210014da91,Taco Bell
+4c66ed5af101ef3bfc2572e9,Taco Bell
+515c82ccf0e4172442779d2d,KFC
+4f326d9019836c91c7d6d950,KFC
+4a36e360f964a520f79d1fe3,Taco Bell
+515c82ccf0e4172442779d34,KFC
+4f32618219836c91c7d2300c,KFC
+4f32129219833175d60dc992,KFC
+4e35b295aeb7f67fbd34118a,KFC/Taco Bell
+4bc63effdb8fa59356069c37,KFC
+4f4467e419836ed00193e31a,KFC
+4f06172f93adf931df4caa7e,KFC's Car!!
+4b7f3181f964a5200d1e30e3,Taco Bell
+4e4dffa0bd4101d0d79fee78,KFC
+4dcd643945ddbe15f86e5231,KFC
+51b79ea587f3678581319666,KFC
+515c82ccf0e4172442779d36,KFC
+4d6d8baf21acf04d836b513a,KFC
+4b9e657ff964a52004e036e3,Taco Bell
+4b76fc7ef964a5209f712ee3,Chick-fil-A
+4b6cb6d3f964a520714e2ce3,Chick-fil-A
+4b75d4def964a520e3272ee3,Sonicbids Global HQ
+4f44d6c119836ed00196e260,Sonic Network
+4eac2b0477c8fadde31ebcb0,Chevy Sonic Adventure
+4f316ce7e4b092d58ba399b1,Sonic Drive In
+4bcb7b7268f976b073366183,SONIC Drive In
+510177f2e4b04be95b62a004,Panera Cares
+50933ae1183f33bd8b79a88d,Panera Bread
+4ddbb9cfd4c009d3c58ebf4f,Panera Bread
+4f882e21e4b0a95f92b0f1a3,Panera Bread
+4faa9ae8e4b070f16d803539,Panera Bread
+4ac0fde2f964a520549520e3,Panera Bread
+4ac7dd6df964a5203cba20e3,Panera Bread
+4d270dbc888af04dc687b8af,Panera Bread
+4aa7f8a2f964a5205c4e20e3,Panera Bread
+49c6f240f964a5208e571fe3,Panera Bread
+4e1487d8d4c023f7053fd316,Panera
+4d4da13c819554811d01da93,Panera Bread
+4abf9255f964a520219120e3,Panera Bread
+429a5780f964a52071241fe3,Panera Bread
+4e0dbdd6483bc2b5f47a26f0,Panera Bread
+4a88413af964a520930520e3,Panera Bread
+4cd566d8a5b346883a938d50,Panera Bread
+51517a70e4b0fe2badd03caa,Panera Bread
+5190d6a7498e67e8bf55c205,Panera
+4b82d346f964a52074e730e3,Panera Bread
+52b5d7a0498e7464069e77e4,Panera Bread
+4bd469d7637ba5932394f470,Panera Bread
+4b2d1938f964a5203ece24e3,Panera Bread
+4a9963b4f964a520132e20e3,Panera Bread
+4b54f166f964a52061d427e3,Panera Bread
+5214f78011d2b67cba106798,Panera Bread
+4c76983566be6dcba68ec30f,Panera Bread
+4c425b293735be9a89f519a4,Panera Bread
+4bc3761a4cdfc9b664639721,Panera Corporate
+4a6f48f3f964a520cbd51fe3,Panera Bread
+4ac0e8f1f964a520f49420e3,Panera Bread
+4bcb0fc5b6c49c74596a9191,Panera Bread
+4f3297c819836c91c7e6e43a,Panera Bread
+4e9630b74fc6cddc2035b04c,Panera Bread
+4bc735956501c9b6f6ee3d29,Boston Bread, LLC
+4c56b5917329c9287a198d80,Panera, LLC
+4ef1da0646901f707ee4d430,Panera Bread
+5252bf2411d25d7a0297589a,Panera Bread Marketstreet
+516ef988e4b0132844235f84,Panera Bread
+4aa41b81f964a520524520e3,The Launch at the Hingham Shipyard
+4a5ba61ff964a52097bb1fe3,Panera Bread
+51a920c5498e83fcd81954b4,Panera
+4b3e77b8f964a5209e9d25e3,Panera Bread
+4f32afaf19836c91c7efd43f,Panera Bread
+518b053c498ee42b2ce72345,Panera Bread
+4e205783628469a57409c641,Panera Bread
+4b6316f1f964a5202c622ae3,Panera Bread
+4a79e829f964a520f5e71fe3,Panera Bread
+5158bf7ae4b0862f15b6b722,Panera Bread Wayland
+4ba156c2f964a52024ae37e3,Panera Bread
+4a695419f964a520e8cb1fe3,IHOP
+4e51d4181f6eae4d253b5efe,IHop
+4e4c3aa9bd413c4cc667d126,IHOP
+4feca1c2e4b0602aa669fd16,Ihop Restourant
+4f322f6419836c91c7be82a3,IHOP
+417d9380f964a520d11d1fe3,IHOP
+4b08f01af964a520791323e3,IHOP
+4b7166b4f964a520b7442de3,IHOP
+4a97c281f964a520bb2920e3,IHOP
+4c11547cd41e76b0a936310d,IHOP
+4e87c77861afa1258f97f0ea,IHOP (International House Of Pan)
+4e4daca0bd41b76bef9175ba,IHOP
+4ac8cbecf964a5209ebc20e3,IHOP
+4b896971f964a520cb3332e3,IHOP
+4e4dac9fbd41b76bef9175ab,IHOP
+4ec1ac61e5fae1646550c95e,IHOP
+4b1bfb15f964a520050024e3,IHOP
+4e832cae6c250277a8dd8832,IHOP
+4e8c63eff790db5ec3a995a3,IHOP
+4bb6925df562ef3b34683097,IHOP
+4b787e29f964a5200ed22ee3,IHOP
+4e5171a7d4c0b6da5d9a7d27,The Outback
+5150bdb3e4b01bb2905589eb,Outback Physical Therapy
+4f32250519836c91c7ba877a,Outback Steakhouse
+4c4e0a37fb742d7f48b8ad2d,The outback
+4d851baf0a0d1456f46009cc,RelayRides - Subaru Outback
+4f32671519836c91c7d454f1,Outback Steakhouse
+4d85192f0a0d1456994c09cc,RelayRides - Subaru Outback
+4f32671d19836c91c7d4581b,Outback Steakhouse
+5197f98e498e065c9c11f191,OUTBACK
+4b411f26f964a52081c125e3,Outback Steakhouse
+4e4daf8dbd41b76bef919aaf,Outback Steakhouse
+4ba5422ef964a520c3f238e3,Outback Steakhouse
+4b19aa4ff964a52084e123e3,Outback Steakhouse
+4abbfe04f964a520d78520e3,Outback Steakhouse
+5109692ce4b0c06b6fabb256,Outback Steakhouse
+4af5fc1bf964a520ceff21e3,Outback Steakhouse
+47614d0ef964a520e04c1fe3,Outback Steakhouse
+51b918ef498e19949f9a5bac,American Outback Adventures
+4b69fc0ff964a520c1bf2be3,Outback Steakhouse
+508c266be4b0953c41026694,Outback Arms
+4eea2f5202d5d0dbe563fd3d,Outback Engineering, Inc.
+4ed7dfb661afca7b25f80dd8,Chipotle Mexican Grill
+4cf5809ee308236a2afee0ac,Chipotle Mexican Grill
+4a9e9761f964a5208c3a20e3,Chipotle Mexican Grill
+4f96a4dde4b024c1fd5dc8c3,Chipotle Mexican Grill
+4b7dc1eaf964a520c0d22fe3,Chipotle Mexican Grill
+49de296bf964a52029601fe3,Chipotle Mexican Grill
+509c663ee4b029db3c7cf702,Chipotle Mexican Grill
+50cf5336e4b06f07e7aeafe1,Chipotle Mexican Grill
+4b0b3ecaf964a5205d2f23e3,Chipotle Mexican Grill
+4a9576f8f964a5204e2320e3,Chipotle Mexican Grill
+4ad3da79f964a520a0e620e3,Chipotle Mexican Grill
+4e946f4eb63439ea014630d5,Chipotle Mexican Grill
+4a874922f964a520a20320e3,Chipotle Mexican Grill
+4bd07baa41b9ef3b1d24fae5,Chipotle Mexican Grill
+4b61c8b2f964a5209a222ae3,Chipotle Mexican Grill
+4aca29d3f964a520aec020e3,Chipotle Mexican Grill
+4a8dcca5f964a520ec1020e3,Chipotle Mexican Grill
+4b2aecfcf964a52033b224e3,Chipotle Mexican Grill
+51deae92498e5ac655843100,Chipotle Mexican Grill
+4a805385f964a520f7f41fe3,Chipotle Mexican Grill
+4f6b6adce4b0803c8afa8023,Chipotle Mexican Grill
+4e4e66a17d8bd425e480168f,Chipotle Mexican Grill
+51c32ff4498e1ce9afbd7465,Chipotle Mexican Grill
+4af6e3a6f964a520ec0322e3,Chipotle Mexican Grill
+4b1da552f964a520781324e3,Chipotle Mexican Grill
+4a818f23f964a520e0f61fe3,Chipotle Mexican Grill
+4ada053ef964a5205e1d21e3,Chipotle Mexican Grill
+4bef1572d1b7d13afe4dcdec,Chipotle Mexican Grill
+4bd86aae5cf276b0db2e9d00,Chipotle Mexican Grill
+4eea1ff09a526a13625de43c,Chipotle Mexican Grill
+4b0c3a0bf964a5203b3923e3,Chipotle Mexican Grill
+4eea3cd94901326b619eb056,Chipotle Mexican Grill
+4e8ccb8bd3e3720da3b09a2b,Chipotles
+4fde1bd1e4b05197cde77a5a,Chipotle Mexican Grill
+5006c79a8302f7d04aa70945,Popeyes Louisiana Kitchen
+4b0345a0f964a520274e22e3,Popeye's
+4e0fd5467d8bb178a8b6f06b,Popeyes @ Washington Park Mall
+4efce200108197f87c56c0d7,Popeyes Louisiana Kitchen
+4be84cf2947820a150bbb4db,Popeye's
+4b9bd558f964a520ee2a36e3,Pep Boys Auto Parts & Service
+4bd5ba816798ef3bd9d1638d,Popeyes Louisiana Kitchen
+52c480f311d2735dcb06107b,Popeyes Louisiana Kitchen
+52c1f532498eebeaf7e95286,Popeyes Louisiana Kitchen
+50e09bcce4b0c73e7502517b,Popeyes Louisiana Kitchen
+4f2dcf9fe4b0fed2aedecb7e,Whataburger
+4f43a61019834bc91f580b91,Hooters
+4e4c53a9bd413c4cc66884c3,Hooters
+4b5f93abf964a52095c229e3,Hooters
+4f02096ba69d45461fa10685,Hooters, madiera beach
+510d5567e4b045d33ca24a32,Rod's Office (Hooters Saugus Edition)
+4e4c53a1bd413c4cc6688484,Hooters
+4b08a612f964a5203a1023e3,Bojangles and Dreams
+4b9d75b6f964a52049ae36e3,Thomas P. O'Neill Jr. Tunnel
+4bbae37353649c74b38349fb,Interstate 93
+4e96de48d22dc0733155a189,I-93
+4ac3dc95f964a520259d20e3,Costco Wholesale
+4ec30aee02d5226e6e8d17ad,Costco Food Court
+51310a9ee4b09cc3583fac0a,Costco Wholesale
+4a958301f964a520742320e3,Costco Wholesale
+4a84248ef964a520c7fb1fe3,Costco Wholesale
+50f1cf80e4b0c27bd8ee3896,Costco Optical
+4feb11c3e4b076a38bc1737b,Costco Tire Center
+4b525427f964a520837727e3,Costco Wholesale
+4ab4f825f964a520d47120e3,Costco Wholesale
+4debf716d22da22d4efbb421,Costco Gas
+4f3ff1eae4b0c78cf9afc0aa,Dr. Larry Silbert, O.D (Costco Optometry Dept.)
+4d3499d372a8b1f7d6f6b1d0,Qdoba Mexican Grill
+4abaa330f964a520368220e3,Qdoba Mexican Grill
+4aaae99ef964a520055820e3,Qdoba Mexican Grill
+4cb3ca9c1168a09360d04423,Qdoba Mexican Grill
+4ad4eee2f964a520bdfc20e3,Qdoba Mexican Grill
+4a8729eaf964a520fb0220e3,Qdoba Mexican Grill
+4aaaf36ff964a5203c5820e3,Qdoba Mexican Grill
+4e4dafe7bd41b76bef919f5e,Qdoba
+5063303319a972e7de5674e3,Qdoba Mexican Grill
+4b0de0edf964a520ef5123e3,Qdoba Mexican Grill
+4cc60f2e1e596dcb7512dc67,Qdoba Mexican Grill
+5148ce49e4b0b960fa059efd,Qdoba
+4fd38e71e4b02c7fc4090bf4,Qdoba Mexican Grill
+51b56fcdabd85df71b94c301,Qdoba Mexican Grill
+4afb5763f964a5201e1d22e3,Qdoba Mexican Grill
+52aa599011d250326f249e73,Qdoba Mexican Grill
+4b09e78df964a5207e1f23e3,Qdoba Mexican Grill
+4af0c38af964a520f3de21e3,Qdoba Mexican Grill
+4e4e44cdbd4101d0d7a66c61,Baskin-Robbins
+4f327e6219836c91c7dd37f9,Baskin-Robbins
+3fd66200f964a520beed1ee3,Baskin-Robbins
+4f44e5f919836ed001975158,Baskin-Robbins
+4e4e44cdbd4101d0d7a66c56,Baskin-Robbins
+4f91bda47beb818efa8843b0,Baskin-Robbins
+4f3222b419836c91c7b99a8d,Baskin-Robbins
+4cfea95462a38cfab7d95932,Baskin-Robbins
+4f32a19c19836c91c7ea927b,Baskin-Robbins
+4e4e44cebd4101d0d7a66c77,Baskin-Robbins
+4f3284b319836c91c7dfa27b,Baskin-Robbins
+4f3264b219836c91c7d36c18,Baskin and Robbins
+4f324fd119836c91c7cb4830,Baskin-Robbins
+4f32379419836c91c7c1acf3,Baskin-Robbins
+4f32440819836c91c7c69a41,Baskin-Robbins
+4e4e44cebd4101d0d7a66c8d,Baskin-Robbins
+51c86f3c498edaa234e14d18,Dunkin' Donuts/Baskin-Robbins
+4bd0afef462cb71323e0d807,Baskin-Robbins
+4f3230a619836c91c7befd98,Baskin-Robbins
+4a97b966f964a520b62920e3,Dunkin' Donuts
+4e4e44ccbd4101d0d7a66c4b,Baskin-Robbins
+4e4e44cebd4101d0d7a66c82,Baskin-Robbins
+4f32ab0919836c91c7ee1afe,Baskin-Robbins
+4e4e44cebd4101d0d7a66c98,Baskin-Robbins
+4c27bbdc9fb5d13a138b9857,Baskin-Robbins
+4f32790919836c91c7db30d9,Baskin-Robbins
+4f32a5fb19836c91c7ec3a45,Baskin-Robbins
+4f3230cb19836c91c7bf0c47,Baskin-Robbins
+4e4e44cdbd4101d0d7a66c6c,Baskin-Robbins
+4f997b52d4f21823bb1f5142,Baskin-Robbins
+4b7ebeb8f964a52075fc2fe3,Dunkin Donuts

@@ -1,0 +1,14 @@
+Outback Steakhouse,http://www.yelp.com/menu/outback-steakhouse-austin-3
+Popeyes Famous Fried Chicken & Biscuits,http://www.yelp.com/menu/popeyes-famous-fried-chicken-and-biscuits-austin-4
+Popeyes,http://www.yelp.com/menu/popeyes-austin-4
+Baskin Robbins,http://www.yelp.com/menu/baskin-robbins-austin-5
+Baskin-Robbins,http://www.yelp.com/menu/baskin-robbins-austin-4
+Dunkin Donuts,http://www.yelp.com/menu/dunkin-donuts-austin
+Burrito Factory,http://www.yelp.com/menu/burrito-factory-austin
+Cabo Bobs Burritos,http://www.yelp.com/menu/cabo-bobs-burritos-austin
+KFC,http://www.yelp.com/menu/kfc-austin
+Chick-Fil-A,http://www.yelp.com/menu/chick-fil-a-austin-10
+Chick-fil-A,http://www.yelp.com/menu/chick-fil-a-austin-7
+Taco Shack,http://www.yelp.com/menu/taco-shack-austin-5
+Dunkin Donuts,http://www.yelp.com/menu/dunkin-donuts-austin
+Subway,http://www.yelp.com/menu/subway-austin-21

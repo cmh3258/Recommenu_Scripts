@@ -1,0 +1,87 @@
+McDonald's
+Subway
+Starbucks
+Burger King
+Wendy's
+Taco Bell
+Dunkin Donuts
+Pizza Hut
+KFC
+Applebee's
+Chickfila
+Sonic
+Olive Garden
+Chili's
+Domino's
+Panera
+Jack in the Box
+Arby's
+Dairy Queen
+Red Lobster
+ihop
+Denny's
+Outback
+Chipotle
+Papa John's
+Buffalo Wild Wings
+Cracker Barrel
+Hardee's
+TGI Friday's
+Popeyes
+Golden Corral
+Cheescake Factory
+Panda Express
+Little Caesars
+Carl's Jr
+Ruby Tuesday
+Texas Roadhouse
+Whataburger
+Marriott Hotels
+Hilton Hotels
+Longhorn Steakhouse
+Jimmy Johns
+Waffle House
+Bob Evans
+Five Guys
+PF Changs
+Sheraton Hotels
+Church's Chicken
+Hooters
+holiday inn
+quiznos sub
+zaxby's
+steak n shake
+bojangles
+culver's
+long john silver's
+papa murphy's
+perkins restaurant
+carrabba's italian grill
+california pizza kitchen
+logan's roadhouse
+romano's macaroni grill
+gj's restaurant
+in-n-out burger
+del taco
+hyatt hotels
+circle k
+el pollo loco
+costco
+jason's deli
+o'charley's 
+boston market
+krispy kreme
+wawa
+qdoba
+white castle
+cici's
+casey's
+baskin-robbins
+famous dave's
+time hortons
+ruth's
+westin hotels
+bonefish grill
+on the border mexican grill
+
+
